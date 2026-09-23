@@ -197,3 +197,67 @@ def fig_dechets():
 if __name__ == '__main__':
     fig_filtre(); fig_tabac(); fig_microbes(); fig_larves(); fig_dechets()
     json.dump(H, open('img/dispo_heights.json', 'w')); print(H)
+
+# ---------- 6. moringa ----------
+def bottle(ax, x, y, w=3.2, h=8.0, water='#8B6A3E', clear=None, depot=False, flocs=False, lab=None):
+    ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle='round,pad=0.05,rounding_size=0.5', fc='#EAF4FB', ec='#4A6B82', lw=1.4, zorder=2))
+    ax.add_patch(Polygon([(x + .2, y + h), (x + w / 2 - .45, y + h + 1.3), (x + w / 2 + .45, y + h + 1.3), (x + w - .2, y + h)], fc='#EAF4FB', ec='#4A6B82', lw=1.4, zorder=2))
+    ax.add_patch(Rectangle((x + w / 2 - .5, y + h + 1.3), 1.0, .5, fc='#2E86C1', ec='#1B4F72', zorder=3))
+    top = y + h - 0.6
+    if clear:
+        ax.add_patch(Rectangle((x + .1, y + 1.0), w - .2, top - y - 1.0, fc=clear, ec='none', zorder=3))
+    else:
+        ax.add_patch(Rectangle((x + .1, y + .1), w - .2, top - y - .1, fc=water, ec='none', alpha=.9, zorder=3))
+    if depot:
+        ax.add_patch(Rectangle((x + .1, y + .1), w - .2, 0.9, fc='#6D4C2F', ec='none', zorder=4))
+        dots(ax, x + .2, x + w - .2, y + .15, y + .9, 40, '#4E342E', 6)
+    if flocs:
+        dots(ax, x + .3, x + w - .3, y + 1.3, top - .3, 18, '#A1887F', 14)
+    if lab: ax.text(x + w / 2, y - 0.5, lab, ha='center', va='top', fontsize=11)
+
+def fig_moringa():
+    fig, ax = new(14, (0, 30), (1.5, 30))
+    # --- étape 1 : préparation de la poudre
+    ax.text(0.3, 29.3, '1. Préparer la poudre de graines', fontsize=11, fontweight='bold', va='top')
+    # gousse
+    t = np.linspace(0, 1, 30)
+    ax.add_patch(Polygon(list(zip(1 + 5 * t, 24.5 + 0.9 * np.sin(np.pi * t))) + list(zip((1 + 5 * t)[::-1], (24.5 - 0.9 * np.sin(np.pi * t))[::-1])), fc='#8D6E63', ec='#5D4037', lw=1.2))
+    for k in range(4): ax.add_patch(Circle((1.9 + k * 1.1, 24.5), .28, fc='#4E342E'))
+    ax.text(3.5, 22.8, 'Gousse sèche', ha='center', va='top', fontsize=11)
+    arrow = lambda a, b: ax.add_patch(FancyArrowPatch(a, b, arrowstyle='-|>', mutation_scale=14, color='#1F3864', lw=1.5))
+    arrow((6.6, 24.5), (8.2, 24.5))
+    # graine ailée -> amande
+    for k, xx in enumerate((9.3, 11.2)):
+        ax.add_patch(Polygon([(xx - .9, 24.5), (xx, 25.3), (xx + .9, 24.5), (xx, 23.7)], fc='#D7CCC8', ec='#8D6E63'))
+        ax.add_patch(Circle((xx, 24.5), .38, fc='#5D4037'))
+    ax.text(10.25, 22.8, 'Graines ailées', ha='center', va='top', fontsize=11)
+    arrow((12.4, 24.5), (14.0, 24.5))
+    for k in range(3): ax.add_patch(Ellipse((15.0 + k * .9, 24.5), .7, .55, fc='#FFFDE7', ec='#BDB76B'))
+    ax.text(15.9, 22.8, '3 amandes', ha='center', va='top', fontsize=11)
+    arrow((17.4, 24.5), (19.0, 24.5))
+    ax.add_patch(Ellipse((21.2, 23.9), 3.8, 1.2, fc='#9E9E9E', ec='#616161'))
+    ax.add_patch(Ellipse((21.4, 25.2), 2.6, 1.0, fc='#BDBDBD', ec='#616161'))
+    dots(ax, 20.2, 22.2, 24.3, 24.6, 30, '#FFFDE7', 8)
+    ax.text(21.2, 22.8, 'Écraser entre\ndeux pierres', ha='center', va='top', fontsize=11)
+    arrow((23.5, 24.5), (25.1, 24.5))
+    ax.add_patch(FancyBboxPatch((25.6, 23.2), 1.8, 2.6, boxstyle='round,pad=0.05,rounding_size=0.3', fc='#FAFAFA', ec='#4A6B82'))
+    ax.add_patch(Rectangle((25.7, 23.3), 1.6, 1.4, fc='#F5F5DC', ec='none'))
+    ax.text(26.5, 22.8, 'Pâte\nlaiteuse', ha='center', va='top', fontsize=11)
+    # --- étape 2 : trois bouteilles après décantation
+    ax.text(0.3, 19.6, '2. Mélanger puis laisser reposer 1 à 2 h', fontsize=11, fontweight='bold', va='top')
+    bottle(ax, 1.5, 5.5, lab='A : témoin\n(eau boueuse seule)')
+    bottle(ax, 7.0, 5.5, clear='#DCEFF7', depot=True, lab='B : + moringa')
+    bottle(ax, 12.5, 5.5, clear='#DCEFF7', depot=True, lab='C : + moringa')
+    label(ax, (15.5, 6.0), 'Dépôt\nde boue', 16.1, 7.6)
+    ax.text(10.9, 1.9, '', fontsize=11)
+    # --- étape 3 : filtrer au pagne puis soleil
+    ax.text(18.3, 19.6, '3. Filtrer au pagne, puis au soleil', fontsize=11, fontweight='bold', va='top')
+    ax.plot([16.3, 18.5, 20.6], [14.8, 16.0, 13.6], color='#5DADE2', lw=3)
+    ax.add_patch(Polygon([(19.2, 13.6), (22.4, 13.6), (21.6, 12.6), (20.0, 12.6)], fc='#C0392B', ec='#7B241C', zorder=4))
+    ax.text(22.8, 13.2, 'Pagne plié en quatre', fontsize=11, va='center')
+    bottle(ax, 19.2, 5.5, w=2.6, h=6.2, clear='#E3F2FD', lab='Eau limpide')
+    ax.add_patch(Circle((27.3, 10.2), 1.3, fc='#F7C948', ec='#E0A800', lw=1.4))
+    for a in np.linspace(0, 2 * np.pi, 10, endpoint=False):
+        ax.plot([27.3 + 1.6 * np.cos(a), 27.3 + 2.1 * np.cos(a)], [10.2 + 1.6 * np.sin(a), 10.2 + 2.1 * np.sin(a)], color='#E0A800', lw=1.3)
+    ax.text(27.3, 6.8, '6 h au soleil\nou ébullition', ha='center', va='top', fontsize=11, fontweight='bold')
+    save(fig, 'exp6_dispositif', 14)

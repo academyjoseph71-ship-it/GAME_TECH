@@ -297,3 +297,66 @@ BRANCHES = [  # (clé, libellé, côté, couleur)
   ('securite', 'Sécurité', 'left', '#E377C2'),
   ('cours', 'Lien avec le cours', 'left', '#FF7F0E'),
 ]
+
+MORINGA = [dict(
+    id='exp6', court='Eau clarifiée au moringa',
+    titre='Expérience 6 : Clarifier et purifier une eau boueuse avec les graines de moringa',
+    chapitre='Chapitre 5 (techniques de traitement de l’eau : sédimentation, filtration, désinfection) et chapitre 1 (amibiase, choléra, giardiase, fièvre typhoïde : maladies transmises par l’eau souillée)',
+    duree='20 min de préparation ; 1 à 2 h de décantation ; 6 h au soleil pour la désinfection',
+    objectif=[
+      'Utiliser les graines de moringa, une ressource végétale locale, pour clarifier une eau boueuse.',
+      'Comprendre les étapes du traitement : coagulation, floculation, décantation, filtration.',
+      'Montrer qu’une eau clarifiée doit encore être désinfectée avant d’être bue.',
+    ],
+    materiel=[
+      ('Gousses sèches de moringa (*Moringa oleifera*) : 6 graines pour l’expérience', 'Arbre de moringa de la cour, du quartier ou du jardin familial'),
+      ('Deux pierres propres, ou un mortier et un pilon', 'Cour de l’école, cuisine'),
+      ('Un petit flacon avec bouchon et un peu d’eau propre', 'Petite bouteille récupérée'),
+      ('Trois bouteilles transparentes de 1,5 L avec bouchon', 'Bouteilles d’eau ou de boisson vides'),
+      ('Eau boueuse', 'Marigot, rivière, flaque après la pluie'),
+      ('Un morceau de pagne propre, à tissage fin', 'Vieux pagne lavé'),
+      ('Une bouteille transparente propre et une tôle ondulée', 'Récupération ; toit ou tôle usée'),
+    ],
+    demarche=[
+      'Récolter des gousses mûres et sèches (brunes). Extraire les graines et retirer leur enveloppe ailée pour obtenir l’amande blanche.',
+      'Écraser finement 3 amandes entre deux pierres propres ou au mortier, jusqu’à obtenir une poudre blanche. Préparer ainsi deux doses de 3 amandes (une dose pour 1,5 L d’eau très boueuse ; 2 amandes suffisent si l’eau est peu trouble).',
+      'Mélanger chaque dose de poudre avec un peu d’eau propre dans le petit flacon fermé et agiter 1 minute : on obtient une pâte laiteuse.',
+      'Remplir les trois bouteilles avec la même eau boueuse, bien mélangée. Bouteille A : témoin, sans rien. Bouteilles B et C : verser une dose de pâte dans chacune.',
+      'Fermer les bouteilles B et C, les agiter vigoureusement 1 minute (mélange rapide), puis les retourner lentement 15 à 20 fois pendant 5 minutes (mélange lent) : de petits flocons se forment.',
+      'Poser les trois bouteilles côte à côte, sans les bouger, pendant 1 à 2 h. Comparer leur aspect toutes les 15 minutes.',
+      'Verser doucement l’eau claire du haut de la bouteille C à travers le pagne plié en quatre, dans la bouteille propre, sans remuer le dépôt du fond.',
+      'Désinfecter l’eau obtenue : la coucher sur la tôle en plein soleil pendant 6 h, ou la faire bouillir au moins 1 minute. La consommer dans les 24 h.',
+    ],
+    observations=[
+      'Quelques minutes après le mélange, de petits flocons apparaissent dans les bouteilles B et C.',
+      'Après 1 à 2 h, les bouteilles B et C sont claires, avec un dépôt de boue au fond ; la bouteille A reste trouble.',
+      'L’eau de la bouteille C, passée au pagne, est limpide.',
+    ],
+    interpretation=[
+      'Les graines de moringa contiennent des protéines qui attirent les fines particules d’argile en suspension : les particules s’agglomèrent (coagulation), forment des flocons (floculation) qui, plus lourds, tombent au fond (décantation).',
+      'Ce traitement élimine la plus grande partie de la boue et une partie des bactéries fixées aux particules, mais pas tous les microbes.',
+      'La désinfection au soleil ou par ébullition reste donc indispensable : on retrouve les trois étapes du cours (sédimentation, filtration, désinfection).',
+      'Le moringa remplace gratuitement les produits chimiques (sulfate d’aluminium) utilisés dans les stations de traitement de l’eau.',
+    ],
+    securite=[
+      'Ne jamais boire l’eau seulement clarifiée : toujours la désinfecter.',
+      'Utiliser des graines saines, sèches et non moisies ; préparer la pâte le jour même.',
+      'Ne pas dépasser la dose : trop de poudre trouble de nouveau l’eau et favorise le retour des microbes.',
+      'Consommer l’eau traitée dans les 24 h et la conserver dans un récipient propre et couvert.',
+      'Se laver les mains au savon après avoir manipulé l’eau du marigot.',
+    ],
+    prolongement=[
+      'Tester plusieurs doses (1, 2, 3 et 4 amandes par litre) pour trouver la dose la plus efficace pour l’eau du marigot local.',
+      'Combiner le moringa avec le filtre à sable et à charbon de l’expérience 1.',
+      'Planter des moringa dans le jardin scolaire : leurs feuilles sont aussi riches en éléments nutritifs.',
+    ],
+    mm=dict(
+      objectif=['Clarifier l’eau avec une plante locale', 'Coagulation, floculation, décantation', 'Désinfecter avant de boire'],
+      materiel=['Graines sèches de moringa', 'Pierres ou mortier et pilon', '3 bouteilles de 1,5 L', 'Eau boueuse du marigot', 'Pagne propre, tôle du toit'],
+      demarche=['1. Décortiquer les graines', '2. Écraser 3 amandes en poudre', '3. Pâte avec un peu d’eau', '4. A témoin ; B et C + moringa', '5. Agiter vite puis lentement', '6. Reposer 1 à 2 h', '7. Filtrer au pagne', '8. 6 h au soleil ou ébullition'],
+      observations=['Flocons en quelques minutes', 'B et C claires, dépôt au fond', 'A reste trouble'],
+      conclusion=['Les protéines agglomèrent la boue', 'Flocons lourds → dépôt', 'Moins de microbes, pas zéro', 'Remplace le sulfate d’aluminium'],
+      securite=['Toujours désinfecter', 'Graines saines, dose respectée', 'Boire dans les 24 h', 'Se laver les mains au savon'],
+      cours=['Chapitre 5 : traitement de l’eau', 'Chapitre 1 : maladies hydriques'],
+    ),
+)]
