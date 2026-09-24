@@ -1,0 +1,344 @@
+@H1 CHAPITRE 4 : PRÉSENTATION, ANALYSE, INTERPRÉTATION ET DISCUSSION DES RÉSULTATS
+## Introduction
+Le chapitre précédent a défini le cadre théorique de l'étude et la démarche méthodologique adoptée. Le présent chapitre expose les résultats obtenus à l'aide des trois outils de collecte, les analyse, les interprète à la lumière du cadre théorique et procède à la vérification des hypothèses. Il présente d'abord les caractéristiques de l'échantillon. Il expose ensuite successivement les résultats relatifs à la maîtrise conceptuelle des fractions (Outil 2), aux pratiques de préparation des leçons (Outil 1) et au dispositif de formation et d'encadrement (Outil 3). Il procède enfin à la vérification des hypothèses et à la discussion des résultats au regard de la littérature.
+## 4.1. Caractéristiques de l'échantillon
+### 4.1.1. Répartition selon le sexe, l'âge et la série du baccalauréat
+Le tableau {T:carac} présente les caractéristiques sociodémographiques et académiques des 100 EPE de l'échantillon.
+@TABLE carac | Caractéristiques des EPE de l'échantillon (n = 100)
+@W 34,36,15,15
+| Variable | Modalités | Effectif | Pourcentage |
+| Sexe | Masculin | 61 | 61 % |
+| | Féminin | 39 | 39 % |
+| Âge | 20 à 24 ans | 34 | 34 % |
+| | 25 à 29 ans | 47 | 47 % |
+| | 30 ans et plus | 19 | 19 % |
+| Série du baccalauréat | A4 (littéraire) | 46 | 46 % |
+| | D (scientifique) | 41 | 41 % |
+| | C ou E (scientifiques) | 13 | 13 % |
+| **Total** | – | **100** | **100 %** |
+@SOURCE Source : Dossiers administratifs des EPE, ENFPE de Notsè, 2026.
+L'échantillon est majoritairement masculin (61 %), ce qui reflète la composition de la promotion. La tranche d'âge de 25 à 29 ans est la plus représentée (47 %). Sur le plan académique, près de la moitié des EPE (46 %) sont titulaires d'un baccalauréat littéraire de série A4, contre 54 % issus des séries scientifiques D, C ou E. Le graphique {G:serie} illustre cette répartition.
+@GRAPH f_serie serie | Répartition des EPE de l'échantillon selon la série du baccalauréat
+@SOURCE Source : Notre enquête, 2026.
+Cette forte proportion d'EPE issus d'une série littéraire est une donnée importante pour notre étude. Ces EPE ont suivi, au second cycle du secondaire, un enseignement des mathématiques plus réduit, ce qui laisse présager une consolidation moindre des connaissances relatives aux nombres rationnels.
+### 4.1.2. Représentativité de l'échantillon
+Pour vérifier la représentativité de l'échantillon, nous avons comparé la répartition des EPE selon le niveau de maîtrise de la Notion B dans l'échantillon et dans la population (tableau {T:gof}).
+@TABLE gof | Comparaison de la répartition par niveau de maîtrise dans la population et dans l'échantillon
+@W 34,22,22,22
+| Niveau de maîtrise | Population (N = 385) | Échantillon (n = 100) | Écart (points) |
+| Non acquis [0 – 0,50] | 35,85 % | 36 % | + 0,15 |
+| En cours d'acquisition [0,51 – 1,00] | 42,08 % | 42 % | – 0,08 |
+| Acquis [1,01 – 1,50] | 22,07 % | 22 % | – 0,07 |
+| **Test d'ajustement** | – | – | **χ² = 0,001 ; ddl = 2 ; p = 0,999** |
+@SOURCE Source : Tableau d'analyse notionnelle et notre enquête, 2026.
+Les écarts entre l'échantillon et la population sont inférieurs à 0,2 point pour chaque niveau, et le test d'ajustement du khi-deux n'est pas significatif (p = 0,999). L'échantillon reproduit donc fidèlement la structure de la population, ce que confirme le graphique {G:popech}. Les résultats obtenus peuvent, dans les limites de la marge d'erreur retenue, être généralisés à l'ensemble de la Promotion 3.
+@GRAPH f_popech popech | Répartition par niveau de maîtrise : population et échantillon
+@SOURCE Source : Tableau d'analyse notionnelle et notre enquête, 2026.
+## 4.2. Résultats relatifs à la maîtrise conceptuelle des fractions
+Cette section présente les résultats issus de l'Outil 2, la grille de dépouillement et d'analyse des copies de l'exercice de la Notion B. Elle répond à la question secondaire QS1 et permet de tester l'hypothèse HS1.
+### 4.2.1. Performances globales à l'exercice de la Notion B
+Le tableau {T:notes} présente la distribution des notes obtenues par les 100 EPE, et le tableau {T:descr} les principaux indicateurs statistiques.
+@TABLE notes | Distribution des notes des EPE à l'exercice de la Notion B (/1,5)
+@W 22,34,14,14,16
+| Note (/1,5) | Interprétation | Effectif | % | % cumulé |
+| 0 et 0,25 | Non-maîtrise critique | 16 | 16 % | 16 % |
+| 0,50 | Obstacles majeurs | 20 | 20 % | 36 % |
+| 0,75 | Maîtrise très fragile | 23 | 23 % | 59 % |
+| 1,00 | Maîtrise partielle | 19 | 19 % | 78 % |
+| 1,25 | Maîtrise satisfaisante | 14 | 14 % | 92 % |
+| 1,50 | Maîtrise complète | 8 | 8 % | 100 % |
+| **Total** | – | **100** | **100 %** | – |
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+@TABLE descr | Indicateurs statistiques des notes à l'exercice de la Notion B
+@W 50,25,25
+| Indicateur | Valeur (/1,5) | Équivalent sur 20 |
+| Moyenne | 0,78 | 10,43 |
+| Écart-type | 0,40 | 5,39 |
+| Médiane | 0,75 | 10,00 |
+| Mode | 0,75 | 10,00 |
+| Premier quartile (Q1) | 0,50 | 6,67 |
+| Troisième quartile (Q3) | 1,00 | 13,33 |
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+La moyenne de l'échantillon s'établit à 0,78 sur 1,5, soit un peu plus de la moitié du barème, avec un écart-type de 0,40 qui traduit une forte dispersion des performances. La médiane et le mode se situent à 0,75, c'est-à-dire exactement à la moitié du barème : la moitié des EPE n'atteignent donc pas la moyenne sur un exercice portant sur une notion du primaire. Le premier quartile, situé à 0,50, indique qu'un quart des EPE obtiennent au plus le tiers des points.
+@GRAPH f_notes notes | Distribution des notes à l'exercice de la Notion B
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+Au total, 36 % des EPE se situent au niveau « non acquis », 42 % au niveau « en cours d'acquisition » et 22 % seulement au niveau « acquis ». Autrement dit, près de quatre futurs enseignants sur cinq (78 %) ne maîtrisent pas, ou maîtrisent de manière fragile, une notion qu'ils auront à enseigner dès leur prise de fonction. Ce premier résultat confirme l'ampleur du problème identifié au cours du stage.
+### 4.2.2. Performances selon les items de l'exercice
+Afin d'identifier les facettes de la fraction les moins maîtrisées, nous avons analysé la réussite à chacun des items (tableau {T:tabitems}).
+@TABLE tabitems | Taux de réussite des EPE aux différents items de l'exercice de la Notion B
+@W 42,20,19,19
+| Item (facette évaluée) | Réussite complète | Réussite partielle | Échec |
+| I1 – Représentation graphique (partie-tout, conversion) | 76 % | – | 24 % |
+| I3 – Équivalence et simplification | 64 % | – | 36 % |
+| I2 – Comparaison de fractions (ordre) | 53 % | – | 47 % |
+| I5 – Problème (fraction-opérateur) | 46 % | – | 54 % |
+| I4 – Addition et soustraction (dénominateurs différents) | 18 % | 38 % | 44 % |
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+@GRAPH f_items gitems | Taux de réussite complète par item de l'exercice de la Notion B
+@SOURCE Source : Notre enquête, 2026 (Outil 2). *Pour I4, seule la réussite complète (0,50 point) est représentée.
+L'analyse fait apparaître une hiérarchie nette. L'item de représentation graphique (I1), qui mobilise la signification partie-tout, est le mieux réussi (76 %). À l'opposé, l'addition et la soustraction de fractions de dénominateurs différents (I4) constituent l'item le plus échoué : seuls 18 % des EPE le réussissent complètement, 38 % n'en réussissent qu'une partie, généralement la soustraction lorsque les dénominateurs sont multiples l'un de l'autre, et 44 % échouent totalement. La résolution du problème mobilisant la fraction-opérateur (I5) n'est réussie que par 46 % des EPE, et la comparaison de fractions (I2) par à peine plus de la moitié (53 %).
+Ce profil est significatif. Les EPE réussissent mieux les tâches qui s'appuient sur la signification partie-tout, la plus fréquemment enseignée, que celles qui exigent de considérer la fraction comme un nombre ayant une grandeur (comparaison), comme un opérateur (problème) ou comme un objet de calcul dont les procédures doivent être comprises (addition). Il rejoint les observations de Charalambous et Pitta-Pantazi (2007), selon lesquelles la maîtrise de la relation partie-tout ne garantit pas celle des autres significations.
+### 4.2.3. Typologie et fréquence des erreurs
+L'analyse qualitative des copies a permis de repérer et de classer les erreurs selon la typologie définie au chapitre 3 (tableau {T:erreurs}).
+@TABLE erreurs | Fréquence des types d'erreurs relevés dans les copies (n = 100)
+@W 30,40,15,15
+| Type d'erreur | Exemple relevé dans les copies | Copies concernées | % |
+| T2 – Algorithme erroné (a+c)/(b+d) | 2/3 + 1/4 = 3/7 | 47 | 47 % |
+| T1 – Interférence du modèle des entiers | « 1/7 > 1/5 car 7 > 5 » | 42 | 42 % |
+| T4 – Mauvaise interprétation de la fraction-opérateur | « 3/5 de 2 400 F = 2 400 : 3 × 5 = 4 000 F » | 35 | 35 % |
+| T5 – Simplification erronée | 18/24 = 15/21 (soustraction de 3) | 30 | 30 % |
+| T3 – Défaut de conversion entre registres | Parts inégales considérées comme des quarts ; comptage des traits au lieu des parts | 23 | 23 % |
+@SOURCE Source : Notre enquête, 2026 (Outil 2). Une même copie peut présenter plusieurs types d'erreurs.
+@GRAPH f_erreurs gerreurs | Fréquence des types d'erreurs dans les copies des EPE
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+L'erreur la plus fréquente est l'algorithme erroné consistant à additionner séparément les numérateurs et les dénominateurs (T2), relevé dans 47 % des copies. De nombreux EPE écrivent ainsi que 2/3 + 1/4 = 3/7. Certains tentent d'appliquer le « produit en croix », mais le combinent de manière incohérente avec la recherche d'un dénominateur commun, ce qui révèle une confusion entre la règle d'égalité de deux fractions et celle de leur addition. Vient ensuite l'interférence du modèle des entiers dans la comparaison (T1), présente dans 42 % des copies : les EPE concluent que 1/7 est supérieur à 1/5 « parce que 7 est plus grand que 5 », ou comparent 3/4 et 5/6 en comparant séparément les numérateurs et les dénominateurs.
+La mauvaise interprétation de la fraction-opérateur (T4) concerne 35 % des copies. Face au problème demandant de calculer les 3/5 de 2 400 francs, certains EPE divisent par le numérateur et multiplient par le dénominateur, obtenant une dépense supérieure à la somme disponible sans que cette incohérence les alerte. La simplification erronée (T5), qui consiste à retrancher un même nombre au numérateur et au dénominateur, apparaît dans 30 % des copies. Enfin, le défaut de conversion entre registres (T3) touche 23 % des copies : certains EPE partagent une figure en parts manifestement inégales en affirmant qu'il s'agit de quarts, d'autres comptent les traits de partage au lieu des parts.
+Au total, **71 % des copies présentent au moins une erreur de type T1, T2 ou T3**, c'est-à-dire une erreur directement liée à un obstacle épistémologique ou sémiotique. Le tableau {T:nberr} précise le nombre de types d'erreurs par copie.
+@TABLE nberr | Répartition des copies selon le nombre de types d'erreurs relevés
+@W 40,30,30
+| Nombre de types d'erreurs | Effectif de copies | Pourcentage |
+| Aucun | 21 | 21 % |
+| Un | 28 | 28 % |
+| Deux | 19 | 19 % |
+| Trois | 22 | 22 % |
+| Quatre ou cinq | 10 | 10 % |
+| **Total** | **100** | **100 %** |
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+Seules 21 % des copies sont exemptes de toute erreur typique, tandis que 32 % en cumulent au moins trois types. Cette accumulation indique que, pour une partie importante des EPE, les erreurs ne sont pas isolées mais s'inscrivent dans une conception d'ensemble erronée du nombre rationnel.
+### 4.2.4. Erreurs selon le niveau de maîtrise
+Le tableau {T:errniv} croise la fréquence des erreurs avec le niveau de maîtrise des EPE.
+@TABLE errniv | Fréquence des types d'erreurs selon le niveau de maîtrise (en % des EPE de chaque niveau)
+@W 34,22,22,22
+| Type d'erreur | Non acquis (n = 36) | En cours d'acquisition (n = 42) | Acquis (n = 22) |
+| T1 – Interférence du modèle des entiers | 77,8 % | 28,6 % | 9,1 % |
+| T2 – Algorithme erroné | 72,2 % | 47,6 % | 4,5 % |
+| T3 – Défaut de conversion | 52,8 % | 9,5 % | 0,0 % |
+| T4 – Fraction-opérateur | 58,3 % | 23,8 % | 18,2 % |
+| T5 – Simplification erronée | 61,1 % | 16,7 % | 4,5 % |
+@SOURCE Source : Notre enquête, 2026 (Outil 2).
+Chez les EPE du niveau « non acquis », toutes les erreurs sont massivement présentes : plus des trois quarts (77,8 %) manifestent l'interférence du modèle des entiers et plus de la moitié (52,8 %) un défaut de conversion entre registres. Chez les EPE du niveau « en cours d'acquisition », les erreurs de conversion et de comparaison deviennent minoritaires, mais l'algorithme erroné de l'addition persiste chez près de la moitié d'entre eux (47,6 %). Ce résultat est particulièrement instructif : l'erreur T2 résiste même chez des EPE qui ont par ailleurs construit une certaine compréhension des fractions, ce qui montre qu'elle est liée à la mémorisation d'une procédure sans signification plutôt qu'à une absence totale de connaissance. Chez les EPE du niveau « acquis », les erreurs sont rares, à l'exception de la fraction-opérateur (18,2 %), signe que cette signification reste fragile même chez les meilleurs.
+### 4.2.5. Analyse des procédures mobilisées dans les copies réussies
+L'analyse des copies ne porte pas seulement sur les erreurs : les procédures des EPE qui réussissent renseignent sur les connaissances qui permettent de dépasser les obstacles. Pour la comparaison de 3/4 et 5/6 (item I2), trois procédures correctes ont été relevées : la réduction au même dénominateur (3/4 = 9/12 et 5/6 = 10/12), largement majoritaire ; la comparaison des compléments à l'unité (il manque 1/4 à 3/4 et 1/6 à 5/6, or 1/6 < 1/4) ; et, plus rarement, le passage à l'écriture décimale. Pour 1/7 et 1/5, les copies réussies justifient presque toujours la comparaison par une référence au partage (« plus on partage l'unité, plus les parts sont petites »), ce qui montre que la réussite s'appuie sur la signification de la fraction plutôt que sur une règle formelle.
+Pour l'addition (item I4), les copies qui réussissent complètement recherchent un dénominateur commun, généralement le produit des dénominateurs, plus rarement le plus petit multiple commun. Les réussites partielles concernent le plus souvent la soustraction 5/6 – 1/4, qui exige la recherche d'un dénominateur commun non évident (12), alors que les EPE qui échouent utilisent 24 et commettent ensuite des erreurs de simplification. Pour le problème de la fraction-opérateur (item I5), la procédure dominante des copies réussies consiste à calculer d'abord la valeur d'un cinquième (2 400 : 5 = 480 F), puis celle de trois cinquièmes (480 × 3 = 1 440 F). Cette procédure en deux étapes, qui s'appuie sur le sens de la fraction unitaire, est plus sûre que l'application directe d'une formule.
+Ces observations sont importantes pour la remédiation. Elles montrent que les procédures qui réussissent le mieux sont celles qui restent liées à la signification de la fraction : partage de l'unité, fraction unitaire, complément à l'unité. Elles confirment l'intérêt, pour la formation, de construire les règles à partir de ces significations plutôt que de les présenter comme des recettes.
+### 4.2.6. Performances selon le profil d'entrée des EPE
+Nous avons examiné la relation entre le niveau de maîtrise et deux variables d'identification : la série du baccalauréat et le sexe.
+@TABLE serieniv | Niveau de maîtrise de la Notion B selon la série du baccalauréat
+@W 24,19,21,17,19
+| Série | Non acquis | En cours d'acquisition | Acquis | Moyenne (/1,5) |
+| A4 (n = 46) | 24 (52,2 %) | 17 (37,0 %) | 5 (10,9 %) | 0,55 |
+| D (n = 41) | 10 (24,4 %) | 19 (46,3 %) | 12 (29,3 %) | 0,93 |
+| C/E (n = 13) | 2 (15,4 %) | 6 (46,2 %) | 5 (38,5 %) | 1,12 |
+| **Ensemble (n = 100)** | **36 (36 %)** | **42 (42 %)** | **22 (22 %)** | **0,78** |
+| **Test (A4 / séries scientifiques)** | colspan | **χ² = 11,50 ; ddl = 2 ; p = 0,003 ; V de Cramer = 0,34** | | |
+@SOURCE Source : Notre enquête, 2026 (Outil 2 et dossiers administratifs).
+@GRAPH f_serie_niveau gserieniv | Niveau de maîtrise de la Notion B selon la série du baccalauréat
+@SOURCE Source : Notre enquête, 2026.
+Plus de la moitié des EPE issus de la série A4 (52,2 %) se situent au niveau « non acquis », contre 24,4 % pour la série D et 15,4 % pour les séries C et E. À l'inverse, la proportion d'EPE au niveau « acquis » passe de 10,9 % en série A4 à 29,3 % en série D et 38,5 % en séries C/E. La moyenne des EPE de série A4 (0,55) est nettement inférieure à celle des EPE de série D (0,93) et des séries C/E (1,12). Les effectifs des séries C/E étant faibles, nous les avons regroupés avec la série D pour appliquer le test du khi-deux. Le test est significatif (χ² = 11,50 ; ddl = 2 ; p = 0,003) et l'intensité de la relation est moyenne (V = 0,34). Le niveau de maîtrise des fractions est donc significativement lié au parcours académique antérieur des EPE.
+@TABLE sexeniv | Niveau de maîtrise de la Notion B selon le sexe
+@W 24,19,21,17,19
+| Sexe | Non acquis | En cours d'acquisition | Acquis | Moyenne (/1,5) |
+| Masculin (n = 61) | 21 (34,4 %) | 26 (42,6 %) | 14 (23,0 %) | 0,82 |
+| Féminin (n = 39) | 15 (38,5 %) | 16 (41,0 %) | 8 (20,5 %) | 0,73 |
+| **Test** | colspan | **χ² = 0,19 ; ddl = 2 ; p = 0,911 ; V de Cramer = 0,04** | | |
+@SOURCE Source : Notre enquête, 2026.
+En revanche, la répartition selon le sexe est très proche pour les hommes et pour les femmes, et le test n'est pas significatif (p = 0,911). Le sexe n'est donc pas un facteur explicatif des difficultés observées. Ce résultat est important : il écarte une explication fondée sur des stéréotypes et oriente l'analyse vers le parcours de formation.
+### 4.2.7. Interprétation des résultats relatifs à la maîtrise conceptuelle
+Les résultats de l'Outil 2 mettent en évidence la nature épistémologique des difficultés des EPE. L'erreur T1, qui consiste à juger 1/7 supérieur à 1/5, est l'exemple type de ce que Bachelard (1938) appelle un obstacle : une connaissance, celle de l'ordre des nombres entiers, qui a fait ses preuves dans son domaine de validité et qui résiste lorsqu'elle est appliquée hors de ce domaine. Selon la classification de Brousseau (1983), cet obstacle est à la fois épistémologique, parce que la rupture entre les entiers et les rationnels est inhérente au savoir, et didactique, parce qu'un enseignement centré sur la relation partie-tout et sur le comptage des parts le renforce. Les EPE qui commettent cette erreur conçoivent encore la fraction comme un couple de deux entiers et non comme un nombre unique, ce qui correspond au premier stade décrit par Stafylidou et Vosniadou (2004).
+L'erreur T2 relève d'une logique voisine mais distincte. Elle résulte de l'application d'une règle syntaxique guidée par l'analogie avec l'addition des entiers. Sa persistance chez près de la moitié des EPE du niveau intermédiaire confirme qu'il s'agit d'une compréhension instrumentale au sens de Skemp (1976) : l'EPE sait qu'il existe une règle, mais il n'en connaît pas la raison. Faute d'avoir vécu la nécessité d'exprimer des tiers et des quarts dans une unité commune, par exemple en superposant des bandes de papier, il ne dispose d'aucun moyen de contrôler le résultat. Or, un simple contrôle de vraisemblance suffirait à invalider le résultat 3/7, qui est inférieur à 2/3 alors qu'on lui a ajouté une quantité positive.
+Les erreurs T3 confirment enfin l'analyse de Duval (1995) : la conversion entre le registre figural et le registre symbolique constitue un seuil de l'apprentissage. L'EPE qui compte les traits au lieu des parts, ou qui accepte des parts inégales, n'a pas intégré la condition d'égalité des parts qui donne sens à l'écriture fractionnaire. L'erreur T4 montre, quant à elle, que la signification opérateur de la fraction, centrale dans la résolution de problèmes, n'est pas construite : l'EPE applique une procédure sans se représenter la situation, au point de ne pas percevoir l'absurdité d'une dépense supérieure à la somme disponible.
+Le lien significatif entre la série du baccalauréat et le niveau de maîtrise conforte cette interprétation. Les EPE issus de la série littéraire ont eu moins d'occasions, au secondaire, de réinvestir les fractions dans des contextes variés ; leurs conceptions initiales, construites au primaire et au collège, n'ont donc pas été remises en question. Leur entrée à l'ENFPE ne fait pas disparaître ces conceptions : si la formation ne crée pas les conditions de leur dépassement, elles se transmettront aux élèves.
+## 4.3. Résultats relatifs aux pratiques de préparation des leçons
+Cette section présente les résultats issus de l'Outil 1, la grille d'analyse des 100 fiches pédagogiques consacrées aux fractions. Elle répond à la question secondaire QS2 et permet de tester l'hypothèse HS2.
+### 4.3.1. Résultats selon les critères d'analyse
+Le tableau {T:fiches} présente la répartition des fiches selon les scores obtenus à chacun des quatre critères.
+@TABLE fiches | Répartition des fiches pédagogiques selon les critères d'analyse (n = 100)
+@W 36,14,14,14,22
+| Critère | 0 = Absent | 1 = Partiel | 2 = Conforme | Moyenne (/2) |
+| C1 – Situation de départ (situation-problème concrète) | 69 % | 21 % | 10 % | 0,41 |
+| C2 – Rigueur mathématique | 18 % | 47 % | 35 % | 1,17 |
+| C3 – Registres de représentation | 52 % | 34 % | 14 % | 0,62 |
+| C4 – Structuration de la séance | 23 % | 49 % | 28 % | 1,05 |
+@SOURCE Source : Notre enquête, 2026 (Outil 1).
+@GRAPH f_fiches gfiches | Répartition des fiches pédagogiques selon les critères d'analyse
+@SOURCE Source : Notre enquête, 2026 (Outil 1).
+Le critère le plus déficitaire est celui de la situation de départ (C1) : 69 % des fiches ne proposent aucune situation-problème et introduisent directement la notion par une définition ou par une règle énoncée par le maître, du type « Une fraction est un nombre qui s'écrit sous la forme a/b ». Seules 10 % des fiches partent d'une situation-problème concrète, de partage ou de mesure, qui place les élèves en situation de recherche. Le critère relatif aux registres de représentation (C3) est également très faible : plus de la moitié des fiches (52 %) ne prévoient aucun schéma ni aucune représentation graphique, ou se contentent d'un dessin du maître au tableau sans lien explicite avec l'écriture symbolique ; seules 14 % organisent une véritable coordination entre registres.
+Les critères de rigueur mathématique (C2) et de structuration (C4) obtiennent des résultats plus favorables, avec des moyennes légèrement supérieures à 1 sur 2. Toutefois, 18 % des fiches comportent des erreurs mathématiques, comme des définitions inexactes, des exemples où les parts représentées sont inégales ou des règles de calcul erronées, et près d'un quart (23 %) ne prévoient ni phase de recherche, ni mise en commun, ni institutionnalisation clairement identifiables. Dans de nombreuses fiches, l'institutionnalisation se réduit à la copie d'un résumé dicté par le maître.
+### 4.3.2. Place du matériel de manipulation
+L'indicateur relatif au matériel de manipulation confirme ces tendances : **74 % des fiches ne prévoient aucune manipulation** d'objets par les élèves, qu'il s'agisse de bandes de papier à plier, de disques à découper, de capsules ou de graines à partager. Dans les 26 % de fiches qui en prévoient, le matériel est souvent manipulé par le maître seul, à titre de démonstration, plutôt que par les élèves en situation de recherche. Les fiches passent ainsi directement de l'explication verbale au tableau à des exercices d'application dans les cahiers.
+### 4.3.3. Illustration par des extraits de fiches
+Deux extraits permettent d'illustrer le contraste entre une fiche insuffisante et une fiche conforme. Le premier, extrait d'une fiche de CM1 sur l'addition de fractions ayant obtenu un score de 2 sur 8, présente la phase de découverte de la manière suivante :
+> « Le maître écrit au tableau : pour additionner deux fractions de dénominateurs différents, on les réduit au même dénominateur puis on additionne les numérateurs. Exemple : 1/2 + 1/3 = 3/6 + 2/6 = 5/6. Les élèves recopient la règle et l'exemple. Exercices : calculer 1/4 + 2/3 ; 3/5 + 1/2. » (Fiche EPE-012)
+La règle est énoncée d'emblée, sans problème qui la rende nécessaire, sans matériel et sans justification ; les élèves n'ont d'autre activité que la copie et l'application. Le second extrait, issu d'une fiche de CE2 sur la notion de quart ayant obtenu un score de 7 sur 8, se présente différemment :
+> « Situation : Ama veut partager une galette en quatre parts égales pour elle et ses trois frères. Consigne : chaque groupe reçoit une feuille rectangulaire représentant la galette ; trouvez comment la partager en quatre parts égales. Mise en commun : les groupes présentent leurs pliages ; on vérifie par superposition que les parts sont égales. Le maître fait nommer chaque part : un quart, et l'écrit 1/4. » (Fiche EPE-021)
+Cette fiche part d'un problème concret, confie la recherche aux élèves, prévoit une validation par superposition et organise le passage du matériel à l'écriture. Elle montre qu'une ingénierie conforme est accessible aux EPE, même si elle reste l'exception.
+### 4.3.4. Qualité globale des fiches
+Le score global de chaque fiche, sur 8 points, permet d'apprécier sa qualité d'ensemble (tableau {T:qualite}).
+@TABLE qualite | Répartition des fiches selon leur qualité globale
+@W 40,20,20,20
+| Qualité de la fiche | Score (/8) | Effectif | Pourcentage |
+| Insuffisante | 0 à 3 | 57 | 57 % |
+| Acceptable | 4 à 5 | 36 | 36 % |
+| Conforme | 6 à 8 | 7 | 7 % |
+| **Total** | – | **100** | **100 %** |
+| **Score moyen** | colspan | **3,25 / 8 (écart-type : 1,53)** | |
+@SOURCE Source : Notre enquête, 2026 (Outil 1).
+Plus de la moitié des fiches (57 %) sont de qualité insuffisante, et seules 7 % peuvent être considérées comme conformes aux exigences d'une démarche active d'enseignement des fractions. Le score moyen de 3,25 sur 8 traduit une ingénierie didactique globalement faible.
+### 4.3.5. Relation entre la qualité des fiches et la maîtrise conceptuelle
+Nous avons examiné la relation entre la qualité des fiches et le niveau de maîtrise de la Notion B (tableau {T:fichniv}).
+@TABLE fichniv | Qualité des fiches selon le niveau de maîtrise de la Notion B
+@W 30,23,25,22
+| Qualité de la fiche | Non acquis (n = 36) | En cours d'acquisition (n = 42) | Acquis (n = 22) |
+| Insuffisante | 26 (72,2 %) | 25 (59,5 %) | 6 (27,3 %) |
+| Acceptable | 10 (27,8 %) | 15 (35,7 %) | 11 (50,0 %) |
+| Conforme | 0 (0,0 %) | 2 (4,8 %) | 5 (22,7 %) |
+| **Score moyen (/8)** | **2,67** | **3,14** | **4,41** |
+| **Test (insuffisante / acceptable ou conforme)** | colspan | **χ² = 11,44 ; ddl = 2 ; p = 0,003 ; V = 0,34** | |
+@SOURCE Source : Notre enquête, 2026 (Outils 1 et 2).
+@GRAPH f_fiche_niveau gfichniv | Score moyen des fiches pédagogiques selon le niveau de maîtrise de la Notion B
+@SOURCE Source : Notre enquête, 2026 (Outils 1 et 2).
+La qualité des fiches croît avec le niveau de maîtrise : le score moyen passe de 2,67 chez les EPE du niveau « non acquis » à 4,41 chez ceux du niveau « acquis ». Près des trois quarts (72,2 %) des EPE du niveau « non acquis » produisent une fiche insuffisante, contre 27,3 % des EPE du niveau « acquis ». Après regroupement des modalités « acceptable » et « conforme », le test du khi-deux est significatif (χ² = 11,44 ; p = 0,003). Le coefficient de corrélation de Spearman entre la note à l'exercice et le score de la fiche est positif et significatif (ρ = 0,45 ; p < 0,001). Cette corrélation est plus forte pour le critère de rigueur mathématique (ρ = 0,57 ; p < 0,001).
+Le tableau {T:critniv} affine cette analyse critère par critère.
+@TABLE critniv | Score moyen (/2) à chaque critère selon le niveau de maîtrise de la Notion B
+@W 40,20,20,20
+| Critère | Non acquis | En cours d'acquisition | Acquis |
+| C1 – Situation de départ | 0,42 | 0,40 | 0,41 |
+| C2 – Rigueur mathématique | 0,78 | 1,26 | 1,64 |
+| C3 – Registres de représentation | 0,56 | 0,43 | 1,09 |
+| C4 – Structuration de la séance | 0,92 | 1,05 | 1,27 |
+| Fiches prévoyant une manipulation | 22,2 % | 19,0 % | 45,5 % |
+@SOURCE Source : Notre enquête, 2026 (Outils 1 et 2).
+Ce tableau révèle un résultat essentiel. Si la rigueur mathématique (C2) progresse nettement avec le niveau de maîtrise, le score au critère de la situation de départ (C1) reste pratiquement identique, autour de 0,4, quel que soit le niveau. Même les EPE qui maîtrisent le mieux les fractions n'introduisent pas la notion par une situation-problème. Autrement dit, la maîtrise du contenu est une condition nécessaire, mais non suffisante, d'une ingénierie didactique de qualité : la capacité à concevoir des situations d'apprentissage relève d'une compétence professionnelle spécifique, qui doit faire l'objet d'une formation explicite.
+### 4.3.6. Interprétation des résultats relatifs aux pratiques de préparation
+Au regard de la Théorie des Situations Didactiques (Brousseau, 1998), les fiches analysées court-circuitent les phases d'action, de formulation et de validation pour ne conserver que l'institutionnalisation d'un savoir que les élèves n'ont pas construit. La dévolution du problème aux élèves n'a pas lieu, puisqu'il n'y a pas de problème : le contrat didactique implicite est celui d'un maître qui énonce et d'élèves qui appliquent. Du point de vue de Douady (1986), la fraction est présentée d'emblée comme un objet, sans avoir été rencontrée comme outil de résolution d'un problème de partage ou de mesure ; les élèves n'ont dès lors aucune raison de comprendre pourquoi ce nouveau nombre est nécessaire.
+L'absence de manipulation et la faiblesse de la coordination entre registres privent en outre les élèves du support qui leur permettrait de convertir une situation concrète en écriture symbolique, conversion dont Duval (1995) a montré qu'elle conditionne la compréhension. Le paradoxe est frappant : les erreurs les plus fréquentes des EPE eux-mêmes, comme l'addition terme à terme ou la comparaison selon l'ordre des entiers, sont précisément celles qu'une manipulation de bandes de papier permettrait de mettre en défaut. En reproduisant dans leurs fiches l'enseignement formel qu'ils ont reçu, les EPE risquent de transmettre à leurs élèves les obstacles dont ils n'ont pas été libérés. Ce phénomène illustre la rupture de la seconde transposition didactique : le savoir, déjà fragile chez l'EPE, est encore « aplati » en une suite de règles lorsqu'il est transposé pour les élèves.
+## 4.4. Résultats relatifs au dispositif de formation et d'encadrement
+Cette section présente les résultats issus de l'Outil 3, les entretiens semi-directifs menés auprès de 4 formateurs et de 20 EPE. Elle répond à la question secondaire QS3 et permet de tester l'hypothèse HS3.
+### 4.4.1. Résultats des entretiens avec les formateurs
+Le tableau {T:themesF} présente les thèmes évoqués par les formateurs en réponse aux trois questions du volet A du guide d'entretien.
+@TABLE themesF | Thèmes évoqués par les formateurs (n = 4)
+@W 30,50,20
+| Question | Thème évoqué | Nombre de formateurs |
+| Q1 – Explication des difficultés | Habitudes de mémorisation héritées du secondaire | 4 / 4 |
+| | Volume horaire insuffisant pour la didactique des fractions | 4 / 4 |
+| | Profil littéraire d'une partie des EPE | 3 / 4 |
+| | Grands effectifs et regroupements de classes | 3 / 4 |
+| Q2 – Obstacles observés | Comparaison selon l'ordre des entiers | 4 / 4 |
+| | Addition des numérateurs et des dénominateurs entre eux | 4 / 4 |
+| | Difficulté à passer du schéma à l'écriture fractionnaire | 3 / 4 |
+| | Incompréhension de la fraction-opérateur dans les problèmes | 2 / 4 |
+| Q3 – Lacunes des fiches | Introduction par une définition sans situation-problème | 4 / 4 |
+| | Absence de matériel de manipulation | 3 / 4 |
+| | Institutionnalisation réduite à la dictée d'un résumé | 3 / 4 |
+| Relances – Dispositif de formation | Formation elle-même peu fondée sur la manipulation, faute de temps | 3 / 4 |
+| | Accompagnement didactique limité des stagiaires par les maîtres d'accueil | 3 / 4 |
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet A).
+S'agissant de l'explication des difficultés (Q1), tous les formateurs mettent en avant les habitudes de mémorisation acquises au secondaire et l'insuffisance du volume horaire. Le formateur F1 résume ainsi la situation :
+> « Le problème fondamental, c'est que les EPE arrivent avec les réflexes du secondaire : apprendre des formules par cœur. Quand on aborde les fractions sous l'angle de la mesure ou de l'opérateur, ils sont perdus. Ils n'ont pas fait ce travail de rupture pour eux-mêmes ; alors imaginez leur difficulté pour l'enseigner à des enfants. Et nos volumes horaires en didactique des mathématiques sont très restreints face à la densité du programme. » (F1)
+Trois formateurs sur quatre soulignent également le poids du profil littéraire d'une partie des EPE et des effectifs élevés. Pour F3, « quand on regroupe deux groupes-classes dans une même salle, il devient impossible de suivre chaque groupe dans une activité de manipulation ; on finit par faire un cours magistral ».
+Concernant les obstacles observés (Q2), les formateurs identifient unanimement la comparaison selon l'ordre des entiers et l'addition terme à terme, ce qui corrobore l'analyse des copies. F2 observe : « Même quand ils connaissent la règle du dénominateur commun, dès qu'on change un peu la présentation, ils reviennent à 2/3 + 1/4 = 3/7. La règle n'est pas ancrée dans le sens. »
+S'agissant des fiches pédagogiques (Q3), tous les formateurs déplorent l'introduction de la fraction par une définition. F4, chargé de la supervision des stages, précise : « La plupart des fiches commencent par "Une fraction est…". Il n'y a pas de problème à résoudre, pas de matériel. L'élève du CM1 reçoit une définition, puis il fait des exercices. »
+Les relances sur le dispositif de formation ont fait émerger un aveu significatif : trois formateurs sur quatre reconnaissent que leur propre enseignement fait peu de place à la manipulation. F2 explique : « Nous savons qu'il faut faire manipuler, mais avec le temps dont nous disposons, nous montrons plus que nous ne faisons faire. Les EPE voient la manipulation comme une théorie, pas comme une pratique qu'ils ont vécue. » Trois formateurs relèvent enfin que les maîtres d'accueil, chargés de classes pléthoriques, accompagnent peu les stagiaires sur le plan didactique.
+### 4.4.2. Résultats des entretiens avec les EPE
+#### a) Auto-évaluation de la maîtrise des fractions (Q1)
+Le tableau {T:autoeval} croise l'auto-évaluation des 20 EPE interviewés avec leur niveau de maîtrise effectif à l'exercice de la Notion B.
+@TABLE autoeval | Auto-évaluation de la maîtrise des fractions selon le niveau effectif (n = 20)
+@W 28,18,22,16,16
+| Auto-évaluation | Non acquis | En cours d'acquisition | Acquis | Total |
+| Faible | 6 | 2 | 0 | 8 (40 %) |
+| Moyenne | 2 | 5 | 2 | 9 (45 %) |
+| Bonne | 0 | 1 | 2 | 3 (15 %) |
+| **Total** | **8** | **8** | **4** | **20 (100 %)** |
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet B, et Outil 2).
+Seuls 3 EPE sur 20 (15 %) jugent leur maîtrise des fractions « bonne », tandis que 8 (40 %) la jugent « faible ». L'auto-évaluation est globalement cohérente avec le niveau effectif : 6 des 8 EPE du niveau « non acquis » se jugent faibles. Les EPE ont donc conscience de leurs difficultés, ce qui constitue un point d'appui pour la remédiation. Plusieurs témoignages font remonter ces difficultés à la scolarité antérieure :
+> « Personnellement, les fractions ont toujours été un cauchemar pour moi depuis le collège. Quand il fallait préparer la fiche sur l'addition des fractions en stage, je me sentais mal à l'aise. Je recopiais la méthode du livre du maître sans trop comprendre pourquoi on met au même dénominateur. » (E7)
+#### b) Aspects jugés les plus complexes à enseigner (Q2)
+@TABLE complexe | Aspects des fractions jugés les plus complexes à expliquer aux élèves (n = 20)
+@W 60,20,20
+| Aspect cité en premier | Effectif | Pourcentage |
+| Les opérations sur les fractions (addition, soustraction, multiplication) | 9 | 45 % |
+| Le sens de la fraction (partie-tout, opérateur, fraction d'une quantité) | 7 | 35 % |
+| La représentation graphique des fractions | 4 | 20 % |
+| **Total** | **20** | **100 %** |
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet B).
+Les opérations sont citées en premier par 45 % des EPE, ce qui concorde avec le très faible taux de réussite à l'item I4. E12 explique : « Je sais faire l'addition, mais si un élève me demande pourquoi on ne peut pas additionner les dénominateurs, je ne sais pas quoi répondre. » Le sens de la fraction est cité par 35 % des EPE, notamment la fraction d'une quantité. E3 confie : « Prendre les 3/5 de quelque chose, je fais le calcul, mais l'expliquer avec des objets, je ne vois pas comment. »
+#### c) Appréciation des outils reçus en formation (Q3)
+@TABLE outils | Appréciation par les EPE des outils méthodologiques reçus à l'ENFPE (n = 20)
+@W 60,20,20
+| Les outils reçus vous ont-ils armés pour enseigner les fractions ? | Effectif | Pourcentage |
+| Oui, pleinement | 3 | 15 % |
+| Partiellement | 12 | 60 % |
+| Non | 5 | 25 % |
+| **Total** | **20** | **100 %** |
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet B).
+@GRAPH f_entretiens gentretiens | Auto-évaluation de la maîtrise (Q1) et appréciation des outils de formation (Q3) par les EPE
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet B).
+Seuls 15 % des EPE estiment que les outils reçus à l'ENFPE les ont pleinement armés pour enseigner les fractions ; 60 % s'estiment partiellement préparés et 25 % pas du tout. E15 résume ce sentiment : « On nous a dit qu'il fallait utiliser du matériel, mais on ne l'a pas fait nous-mêmes en classe à l'ENFPE. Sur le terrain, je ne savais pas comment organiser la manipulation avec soixante-dix élèves. »
+#### d) Thèmes transversaux évoqués par les EPE
+L'analyse de contenu de l'ensemble des entretiens fait apparaître des thèmes transversaux, présentés dans le graphique {G:themes}.
+@GRAPH f_themes themes | Thèmes évoqués par les EPE au cours des entretiens
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet B).
+Le thème le plus fréquent est la recopie de la démarche du livre du maître (15 EPE sur 20), qui traduit une dépendance à l'égard d'un modèle extérieur faute de maîtrise personnelle. Viennent ensuite le faible nombre de séances de manipulation vécues à l'ENFPE (14 sur 20), l'appréhension des fractions héritée du collège (13 sur 20), le manque de matériel didactique (12 sur 20) et l'insuffisance du volume horaire (11 sur 20). Dix EPE disent éprouver des difficultés à répondre aux questions « pourquoi » des élèves. L'accompagnement didactique insuffisant sur le terrain est évoqué par 9 EPE sur 20. E18 témoigne : « Mon maître d'accueil m'a laissé la classe dès la deuxième semaine. Il regardait surtout la discipline et le cahier de préparation, pas la manière dont j'enseignais les fractions. »
+#### e) Analyse des thèmes selon le niveau de maîtrise des EPE
+Le tableau {T:themesniv} croise les principaux thèmes évoqués avec le niveau de maîtrise des EPE interviewés.
+@TABLE themesniv | Principaux thèmes évoqués selon le niveau de maîtrise des EPE interviewés
+@W 40,20,20,20
+| Thème évoqué | Non acquis (n = 8) | En cours d'acquisition (n = 8) | Acquis (n = 4) |
+| Recopie de la démarche du livre du maître | 8 | 6 | 1 |
+| Peu de séances de manipulation vécues à l'ENFPE | 5 | 6 | 3 |
+| Appréhension des fractions héritée du collège | 7 | 5 | 1 |
+| Manque de matériel didactique | 4 | 5 | 3 |
+| Volume horaire jugé insuffisant | 3 | 5 | 3 |
+| Difficulté à répondre aux « pourquoi » des élèves | 6 | 4 | 0 |
+| Encadrement didactique insuffisant sur le terrain | 3 | 4 | 2 |
+@SOURCE Source : Notre enquête, 2026 (Outil 3, volet B, et Outil 2).
+Deux profils de discours se dégagent. Les EPE du niveau « non acquis » expriment surtout des difficultés personnelles : appréhension des fractions héritée du collège (7 sur 8), recopie du livre du maître (8 sur 8) et difficulté à répondre aux questions des élèves (6 sur 8). Leur discours traduit une insécurité conceptuelle qui les conduit à s'en remettre à un modèle extérieur. Les EPE des niveaux « en cours d'acquisition » et « acquis » mettent davantage en avant des facteurs liés au dispositif : le faible nombre de séances de manipulation vécues, le manque de matériel et le volume horaire. Ainsi, les trois EPE du niveau « acquis » qui évoquent la manipulation soulignent qu'ils savent ce qu'il faudrait faire, mais qu'ils ne l'ont jamais vu faire. E19, du niveau « acquis », le formule ainsi : « Moi, je comprends les fractions, mais je n'avais jamais vu une leçon où les élèves plient des bandes. Je ne savais pas comment organiser cela, alors j'ai fait comme on m'avait enseigné. »
+Cette différenciation des discours confirme le résultat issu de l'analyse des fiches : la maîtrise du contenu ne suffit pas à transformer les pratiques. Les EPE qui maîtrisent les fractions manquent, eux aussi, de modèles de pratique vécus.
+### 4.4.3. Triangulation des données
+Le tableau {T:triang} confronte les résultats issus des trois sources de données.
+@TABLE triang | Triangulation des résultats issus des trois outils
+@W 22,26,26,26
+| Dimension | Copies (Outil 2) | Fiches (Outil 1) | Entretiens (Outil 3) |
+| Interférence du modèle des entiers | 42 % des copies (T1) | Comparaison traitée par la règle, sans support | Obstacle cité par 4 formateurs sur 4 |
+| Opérations sans signification | 47 % des copies (T2) ; I4 réussi par 18 % | Règle du dénominateur commun énoncée sans justification | Opérations jugées les plus complexes par 45 % des EPE |
+| Registres de représentation | 23 % des copies (T3) | 52 % des fiches sans registre figural (C3 = 0) | Passage du schéma à l'écriture cité par 3 formateurs |
+| Manipulation et situations-problèmes | – | 69 % sans situation-problème ; 74 % sans manipulation | Peu de manipulation vécue en formation (14 EPE ; 3 formateurs) |
+| Facteurs institutionnels | Lien avec la série du bac (p = 0,003) | Lien fiche – maîtrise (ρ = 0,45) | Volume horaire (4 formateurs, 11 EPE) ; encadrement (3 formateurs, 9 EPE) |
+@SOURCE Source : Notre enquête, 2026.
+Les trois sources convergent : les difficultés conceptuelles observées dans les copies se retrouvent dans les fiches pédagogiques et sont reconnues à la fois par les formateurs et par les EPE. Cette convergence renforce la validité des conclusions.
+### 4.4.4. Interprétation des résultats relatifs au dispositif de formation
+Les entretiens éclairent l'origine institutionnelle des difficultés observées. L'insuffisance du volume horaire, unanimement relevée par les formateurs et confirmée par plus de la moitié des EPE, empêche de consacrer aux fractions le temps nécessaire au dépassement des obstacles. Or, selon Brousseau (1983), un obstacle ne se franchit pas par une simple explication : il exige des situations répétées de mise en défaut et de reconstruction, qui prennent du temps.
+L'aveu des formateurs selon lequel ils « montrent plus qu'ils ne font faire » est particulièrement éclairant au regard de l'analyse de Houdement et Kuzniak (1996). La formation observée relève davantage d'une stratégie de monstration que d'une stratégie d'homologie ou de transposition : les EPE entendent parler de la manipulation sans l'avoir vécue comme apprenants, puis sans avoir analysé ce vécu. Il n'est dès lors pas surprenant qu'ils ne l'intègrent pas dans leurs fiches, y compris lorsqu'ils maîtrisent le contenu. Ce résultat rejoint celui du tableau {T:critniv} : le score au critère de la situation de départ est indépendant du niveau de maîtrise, ce qui désigne un déficit de formation professionnelle plutôt qu'un déficit de connaissances.
+Enfin, l'accompagnement didactique limité sur le terrain prive les EPE de la boucle de rétroaction qui permettrait d'ajuster leurs pratiques. Ce facteur, évoqué par trois formateurs sur quatre, n'est toutefois cité que par 9 EPE sur 20, ce qui suggère que les EPE le perçoivent moins comme une cause de leurs difficultés que comme une caractéristique ordinaire du stage.
+## 4.5. Vérification des hypothèses
+Le tableau {T:verif} confronte les résultats aux critères de vérification fixés au chapitre 3.
+@TABLE verif | Synthèse de la vérification des hypothèses
+@W 10,50,40
+| Hypothèse | Résultats obtenus | Décision |
+| HS1 | 71 % des copies présentent au moins une erreur de type T1, T2 ou T3 (seuil : 50 %) ; réussite inférieure à 50 % pour I4 (18 %) et I5 (46 %) | **Confirmée** |
+| HS2 | 69 % des fiches obtiennent 0 au critère C1 (seuil : 50 %) ; 74 % sans manipulation (seuil : 50 %) ; moyenne C3 = 0,62 (seuil : < 1) | **Confirmée** |
+| HS3 | Volume horaire : 4/4 formateurs et 11/20 EPE ; pratiques transmissives : 3/4 formateurs et 14/20 EPE ; encadrement : 3/4 formateurs mais 9/20 EPE (seuil : 10) | **Partiellement confirmée** (deux facteurs sur trois) |
+| HP | Deux hypothèses secondaires confirmées, la troisième partiellement confirmée | **Partiellement confirmée, à un degré élevé** |
+@SOURCE Source : Notre enquête, 2026.
+### 4.5.1. Vérification de l'hypothèse secondaire HS1
+L'hypothèse HS1 postulait que les EPE présentent des obstacles épistémologiques qui se traduisent par des erreurs récurrentes aux évaluations. Les résultats montrent que 71 % des copies comportent au moins une erreur liée à l'interférence du modèle des entiers, à un algorithme dépourvu de sens ou à un défaut de conversion entre registres, et que les items portant sur l'addition et sur la fraction-opérateur sont réussis par moins de la moitié des EPE. Les deux critères fixés sont remplis. **L'hypothèse HS1 est confirmée.**
+### 4.5.2. Vérification de l'hypothèse secondaire HS2
+L'hypothèse HS2 postulait que les fiches pédagogiques des EPE privilégient une introduction formelle et font peu de place à la manipulation, aux situations-problèmes et aux registres de représentation. Les résultats montrent que 69 % des fiches n'intègrent aucune situation-problème, que 74 % ne prévoient aucune manipulation et que la moyenne au critère des registres n'est que de 0,62 sur 2. Les trois critères sont remplis. **L'hypothèse HS2 est confirmée.**
+### 4.5.3. Vérification de l'hypothèse secondaire HS3
+L'hypothèse HS3 postulait que l'insuffisance du volume horaire, le caractère transmissif des pratiques de formation et un encadrement limité sur le terrain contribuent à la persistance des difficultés. Les deux premiers facteurs satisfont au critère fixé, étant évoqués par au moins trois formateurs sur quatre et par au moins la moitié des EPE. Le troisième facteur, l'encadrement sur le terrain, est évoqué par trois formateurs sur quatre mais par 9 EPE sur 20, soit légèrement en dessous du seuil. **L'hypothèse HS3 est partiellement confirmée** : elle l'est pour le volume horaire et pour les pratiques de formation, mais le rôle de l'encadrement sur le terrain, s'il est attesté par les formateurs, reste à confirmer par une étude portant sur les pratiques effectives d'accompagnement.
+### 4.5.4. Vérification de l'hypothèse principale
+L'hypothèse principale postulait que les difficultés des EPE s'expliquent par la conjonction d'une maîtrise conceptuelle fragile, de pratiques de préparation peu fondées sur la manipulation et les situations-problèmes, et d'insuffisances du dispositif de formation et d'encadrement. Deux hypothèses secondaires étant confirmées et la troisième l'étant partiellement, **l'hypothèse principale est partiellement confirmée, à un degré élevé**. Les composantes conceptuelle et didactique sont pleinement établies ; la composante institutionnelle l'est pour le temps de formation et les pratiques des formateurs.
+## 4.6. Discussion des résultats
+### 4.6.1. Des difficultés conformes à celles décrites par la littérature internationale
+Les résultats obtenus à l'ENFPE de Notsè rejoignent largement ceux de la littérature internationale. Le biais du nombre entier, décrit par Ni et Zhou (2005), se retrouve dans les erreurs de comparaison de 42 % des EPE. L'addition terme à terme, relevée dans 47 % des copies, est l'une des erreurs les plus documentées, tant chez les élèves (Hart, 1981 ; Lortie-Forgues et al., 2015) que chez les futurs enseignants (Newton, 2008). La supériorité de la maîtrise procédurale sur la compréhension conceptuelle, mise en évidence par Newton (2008) chez des futurs enseignants américains, se retrouve dans la persistance de l'erreur T2 chez des EPE qui connaissent par ailleurs la règle du dénominateur commun.
+Nos résultats présentent cependant une spécificité : l'ampleur des difficultés, qui touchent près de quatre EPE sur cinq à des degrés divers, est plus marquée que dans la plupart des études menées dans les pays à revenu élevé. Cette spécificité s'explique en partie par le profil d'entrée des EPE, dont près de la moitié sont issus d'une série littéraire, et rejoint les constats du PASEC (2020) sur la faiblesse des acquis en mathématiques dans la région : les EPE d'aujourd'hui sont les élèves d'hier d'un système dont les résultats en mathématiques restent préoccupants.
+### 4.6.2. La maîtrise du contenu, condition nécessaire mais non suffisante
+La corrélation positive entre la note à l'exercice et la qualité des fiches (ρ = 0,45) confirme le lien entre connaissance du contenu et connaissance pédagogique du contenu établi par Depaepe et al. (2015) et, plus largement, par Ball et al. (2008). Un EPE qui ne maîtrise pas les fractions ne peut produire une fiche rigoureuse. Toutefois, notre étude apporte une nuance importante : la capacité à concevoir une situation-problème ne dépend pas du niveau de maîtrise. Ce résultat plaide, avec Shulman (1986), pour une conception de la formation qui ne se contente pas de consolider les connaissances mathématiques des EPE, mais qui développe explicitement leur connaissance pédagogique du contenu : connaissance des situations fondatrices, des représentations efficaces et des erreurs des élèves. Ma (1999) a montré que c'est précisément cette connaissance « profonde » des mathématiques élémentaires qui distingue les enseignants efficaces.
+### 4.6.3. Le cercle de la reproduction et la double transposition
+Nos résultats mettent en évidence un cercle de reproduction. Les EPE ont appris les fractions selon un enseignement procédural qui a laissé intacts leurs obstacles ; la formation, contrainte par le temps, les expose à la manipulation sans la leur faire vivre ; ils conçoivent alors leurs leçons selon le modèle procédural qu'ils ont connu, et risquent de transmettre les mêmes obstacles à leurs élèves. Ce cercle illustre les deux ruptures possibles de la double transposition didactique décrite au chapitre 3. Il confirme l'analyse de Houdement et Kuzniak (1996) : la stratégie de monstration ne suffit pas ; seule une stratégie de transposition, dans laquelle les EPE vivent des situations d'apprentissage puis les analysent, est susceptible de rompre le cercle. Les travaux de Tirosh (2000) montrent d'ailleurs qu'une formation ciblée sur les conceptions erronées des élèves améliore sensiblement les connaissances des futurs enseignants.
+### 4.6.4. Implications des résultats pour la formation des EPE
+Les résultats obtenus ont plusieurs implications pour la formation des EPE, qui orientent la contribution professionnelle présentée au chapitre suivant. La première est que la remédiation conceptuelle ne peut se limiter à une révision des règles de calcul : elle doit placer les EPE face à des situations qui mettent en défaut leurs conceptions, conformément à la notion d'obstacle. La deuxième est que la formation doit faire vivre aux EPE, en tant qu'apprenants, les situations de manipulation et de problématisation qu'ils auront à conduire, puis les amener à analyser ce vécu : c'est la condition pour que ces situations deviennent des pratiques et non de simples principes. La troisième est que les erreurs typiques identifiées, en particulier l'addition terme à terme, l'interférence du modèle des entiers et la mauvaise interprétation de la fraction-opérateur, doivent devenir des objets explicites de formation, car l'EPE qui les a lui-même dépassées est mieux armé pour les reconnaître et les traiter chez ses élèves. La quatrième, enfin, est que les EPE issus des séries littéraires constituent un public prioritaire pour la remédiation, sans que ce constat justifie une approche différente dans son principe : tous les EPE, y compris ceux qui maîtrisent le contenu, ont besoin d'une formation à l'ingénierie des situations.
+### 4.6.5. Portée et limites des résultats
+Ces résultats doivent être lus à la lumière des limites de l'étude. L'analyse des pratiques porte sur des fiches de préparation, qui renseignent sur les intentions d'enseignement et non sur les pratiques effectives en classe : un EPE peut faire manipuler ses élèves sans l'avoir prévu dans sa fiche, et inversement. Les entretiens recueillent un discours, susceptible de biais. L'étude porte enfin sur une seule promotion d'une seule ENFPE, et l'exercice de la Notion B, noté sur 1,5 point, ne couvre pas toutes les facettes de la fraction. La convergence des trois sources de données et la représentativité statistique de l'échantillon confèrent néanmoins une bonne solidité aux conclusions.
+## Conclusion
+Ce quatrième chapitre a présenté, analysé, interprété et discuté les résultats de l'étude. L'analyse des copies a montré que 71 % des EPE manifestent des erreurs liées à des obstacles épistémologiques ou sémiotiques, en particulier l'addition terme à terme et l'interférence du modèle des entiers, et que le niveau de maîtrise est significativement lié à la série du baccalauréat. L'analyse des fiches a révélé une ingénierie didactique faible, marquée par l'absence de situations-problèmes et de manipulation, y compris chez les EPE qui maîtrisent le contenu. Les entretiens ont mis en cause le volume horaire, le caractère transmissif de la formation et, dans une moindre mesure, l'encadrement sur le terrain. Les hypothèses HS1 et HS2 sont confirmées, HS3 l'est partiellement, et l'hypothèse principale est partiellement confirmée à un degré élevé. Ces résultats appellent une réponse didactique précise, construite et démontrée : c'est l'objet de la contribution professionnelle présentée au chapitre 5.

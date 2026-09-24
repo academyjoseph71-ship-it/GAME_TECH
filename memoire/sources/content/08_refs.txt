@@ -1,0 +1,59 @@
+@H1 RÉFÉRENCES BIBLIOGRAPHIQUES
+## Ouvrages, articles et rapports
+@REF Altet, M. (1994). *La formation professionnelle des enseignants : analyse des pratiques et situations pédagogiques*. Presses Universitaires de France.
+@REF Astolfi, J.-P. (1997). *L'erreur, un outil pour enseigner*. ESF.
+@REF Bachelard, G. (1938). *La formation de l'esprit scientifique : contribution à une psychanalyse de la connaissance objective*. Vrin.
+@REF Ball, D. L., Thames, M. H., & Phelps, G. (2008). Content knowledge for teaching: What makes it special? *Journal of Teacher Education, 59*(5), 389–407.
+@REF Bardin, L. (1977). *L'analyse de contenu*. Presses Universitaires de France.
+@REF Behr, M. J., Lesh, R., Post, T. R., & Silver, E. A. (1983). Rational-number concepts. In R. Lesh & M. Landau (Eds.), *Acquisition of mathematics concepts and processes* (pp. 91–126). Academic Press.
+@REF Brousseau, G. (1983). Les obstacles épistémologiques et les problèmes en mathématiques. *Recherches en didactique des mathématiques, 4*(2), 165–198.
+@REF Brousseau, G. (1998). *Théorie des situations didactiques*. La Pensée Sauvage.
+@REF Brousseau, N., & Brousseau, G. (1987). *Rationnels et décimaux dans la scolarité obligatoire*. IREM de Bordeaux.
+@REF Bruner, J. S. (1966). *Toward a theory of instruction*. Harvard University Press.
+@REF Charalambous, C. Y., & Pitta-Pantazi, D. (2007). Drawing on a theoretical model to study students' understandings of fractions. *Educational Studies in Mathematics, 64*(3), 293–316.
+@REF Chevallard, Y. (1991). *La transposition didactique : du savoir savant au savoir enseigné* (2e éd.). La Pensée Sauvage.
+@REF Cramer, K. A., Post, T. R., & delMas, R. C. (2002). Initial fraction learning by fourth- and fifth-grade students: A comparison of the effects of using commercial curricula with the effects of using the Rational Number Project curriculum. *Journal for Research in Mathematics Education, 33*(2), 111–144.
+@REF Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). SAGE.
+@REF De Ketele, J.-M., & Roegiers, X. (2009). *Méthodologie du recueil d'informations : fondements des méthodes d'observation, de questionnaire, d'interview et d'étude de documents* (4e éd.). De Boeck.
+@REF Depaepe, F., Torbeyns, J., Vermeersch, N., Janssens, D., Janssen, R., Kelchtermans, G., Verschaffel, L., & Van Dooren, W. (2015). Teachers' content and pedagogical content knowledge on rational numbers: A comparison of prospective elementary and lower secondary school teachers. *Teaching and Teacher Education, 47*, 82–92.
+@REF Douady, R. (1986). Jeux de cadres et dialectique outil-objet. *Recherches en didactique des mathématiques, 7*(2), 5–31.
+@REF Duval, R. (1993). Registres de représentation sémiotique et fonctionnement cognitif de la pensée. *Annales de didactique et de sciences cognitives, 5*, 37–65.
+@REF Duval, R. (1995). *Sémiosis et pensée humaine : registres sémiotiques et apprentissages intellectuels*. Peter Lang.
+@REF Hart, K. M. (Ed.). (1981). *Children's understanding of mathematics: 11–16*. John Murray.
+@REF Hiebert, J., & Lefevre, P. (1986). Conceptual and procedural knowledge in mathematics: An introductory analysis. In J. Hiebert (Ed.), *Conceptual and procedural knowledge: The case of mathematics* (pp. 1–27). Lawrence Erlbaum.
+@REF Houdement, C., & Kuzniak, A. (1996). Autour des stratégies utilisées pour former les maîtres du premier degré en mathématiques. *Recherches en didactique des mathématiques, 16*(3), 289–322.
+@REF Johsua, S., & Dupin, J.-J. (1993). *Introduction à la didactique des sciences et des mathématiques*. Presses Universitaires de France.
+@REF Kieren, T. E. (1976). On the mathematical, cognitive, and instructional foundations of rational numbers. In R. A. Lesh (Ed.), *Number and measurement: Papers from a research workshop* (pp. 101–144). ERIC/SMEAC.
+@REF Komba, S. C., & Kira, E. S. (2013). The effectiveness of teaching practice in improving student teachers' teaching skills in Tanzania. *Journal of Education and Practice, 4*(1), 157–163.
+@REF Lamon, S. J. (2007). Rational numbers and proportional reasoning: Toward a theoretical framework for research. In F. K. Lester (Ed.), *Second handbook of research on mathematics teaching and learning* (pp. 629–667). Information Age Publishing.
+@REF Lortie-Forgues, H., Tian, J., & Siegler, R. S. (2015). Why is learning fraction and decimal arithmetic so difficult? *Developmental Review, 38*, 201–221.
+@REF Ma, L. (1999). *Knowing and teaching elementary mathematics: Teachers' understanding of fundamental mathematics in China and the United States*. Lawrence Erlbaum.
+@REF Miles, M. B., & Huberman, A. M. (2003). *Analyse des données qualitatives* (2e éd.). De Boeck.
+@REF Moss, J., & Case, R. (1999). Developing children's understanding of the rational numbers: A new model and an experimental curriculum. *Journal for Research in Mathematics Education, 30*(2), 122–147.
+@REF Newton, K. J. (2008). An extensive analysis of preservice elementary teachers' knowledge of fractions. *American Educational Research Journal, 45*(4), 1080–1110.
+@REF Ni, Y., & Zhou, Y.-D. (2005). Teaching and learning fraction and rational numbers: The origins and implications of whole number bias. *Educational Psychologist, 40*(1), 27–52.
+@REF Paquay, L., Altet, M., Charlier, É., & Perrenoud, P. (Éds.). (2001). *Former des enseignants professionnels : quelles stratégies ? quelles compétences ?* (3e éd.). De Boeck.
+@REF PASEC. (2020). *PASEC2019 : Qualité des systèmes éducatifs en Afrique subsaharienne francophone. Performances et environnement de l'enseignement-apprentissage au primaire*. CONFEMEN.
+@REF Perrenoud, P. (2001). *Développer la pratique réflexive dans le métier d'enseignant : professionnalisation et raison pédagogique*. ESF.
+@REF Post, T. R., Harel, G., Behr, M. J., & Lesh, R. (1991). Intermediate teachers' knowledge of rational number concepts. In E. Fennema, T. P. Carpenter, & S. J. Lamon (Eds.), *Integrating research on teaching and learning mathematics* (pp. 177–198). State University of New York Press.
+@REF Robert, A. (2001). Les recherches sur les pratiques des enseignants et les contraintes de l'exercice du métier d'enseignant. *Recherches en didactique des mathématiques, 21*(1-2), 57–80.
+@REF Robert, A., & Rogalski, J. (2002). Le système complexe et cohérent des pratiques des enseignants de mathématiques : une double approche. *Revue canadienne de l'enseignement des sciences, des mathématiques et des technologies, 2*(4), 505–528.
+@REF Rouche, N. (1998). *Pourquoi ont-ils inventé les fractions ?* Ellipses.
+@REF Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books.
+@REF Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. *Educational Researcher, 15*(2), 4–14.
+@REF Siegler, R. S., Duncan, G. J., Davis-Kean, P. E., Duckworth, K., Claessens, A., Engel, M., Susperreguy, M. I., & Chen, M. (2012). Early predictors of high school mathematics achievement. *Psychological Science, 23*(7), 691–697.
+@REF Siegler, R. S., Thompson, C. A., & Schneider, M. (2011). An integrated theory of whole number and fractions development. *Cognitive Psychology, 62*(4), 273–296.
+@REF Skemp, R. R. (1976). Relational understanding and instrumental understanding. *Mathematics Teaching, 77*, 20–26.
+@REF Stafylidou, S., & Vosniadou, S. (2004). The development of students' understanding of the numerical value of fractions. *Learning and Instruction, 14*(5), 503–518.
+@REF Tardif, M., & Lessard, C. (1999). *Le travail enseignant au quotidien : contribution à l'étude du travail dans les métiers et les professions d'interactions humaines*. De Boeck.
+@REF Tirosh, D. (2000). Enhancing prospective teachers' knowledge of children's conceptions: The case of division of fractions. *Journal for Research in Mathematics Education, 31*(1), 5–25.
+@REF UNESCO. (2014). *Rapport mondial de suivi sur l'EPT 2013/4. Enseigner et apprendre : atteindre la qualité pour tous*. UNESCO.
+@REF Vamvakoussi, X., & Vosniadou, S. (2004). Understanding the structure of the set of rational numbers: A conceptual change approach. *Learning and Instruction, 14*(5), 453–467.
+@REF Vergnaud, G. (1990). La théorie des champs conceptuels. *Recherches en didactique des mathématiques, 10*(2-3), 133–170.
+@REF Van der Maren, J.-M. (1996). *Méthodes de recherche pour l'éducation* (2e éd.). Presses de l'Université de Montréal ; De Boeck.
+@REF Yamane, T. (1967). *Statistics: An introductory analysis* (2nd ed.). Harper & Row.
+## Textes officiels et documents institutionnels
+@REF Arrêté interministériel n°009/MEPSTA/MFPTDS/MEF du 04 novembre 2022 [texte portant transformation de l’ENI de Notsè en ENFPE]. République Togolaise.
+@REF Arrêté n°615 du 08 novembre 2022 [missions des ENFPE, articles 2 et 3]. République Togolaise.
+@REF ENFPE de Notsè. (2026). *Tableau d'analyse notionnelle des résultats aux évaluations sommatives, champ mathématique* [Document interne].
+@REF République Togolaise. (2020). *Plan sectoriel de l'éducation 2020-2030*. Ministères en charge de l'éducation.

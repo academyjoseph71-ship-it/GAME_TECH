@@ -1,0 +1,51 @@
+@H1 DÉDICACE
+@SPACE 180
+@RIGHT À mes parents, pour leur soutien indéfectible et leurs sacrifices ;
+@RIGHT À mon épouse et à mes enfants, pour leur patience et leurs encouragements ;
+@RIGHT À tous les élèves-professeurs d'école du Togo, qui portent l'avenir de l'école primaire.
+
+@H1 REMERCIEMENTS
+Ce mémoire professionnel est le fruit d'un parcours de formation qui n'aurait pu aboutir sans le concours de nombreuses personnes, auxquelles nous tenons à exprimer notre profonde gratitude.
+Nos remerciements s'adressent en premier lieu à notre Directeur de mémoire de l'Institut National des Sciences de l'Éducation (INSE) et à notre Co-directeur, pour leur disponibilité, leur rigueur scientifique et leurs orientations constantes, qui ont permis de donner forme et cohérence à ce travail.
+Nous remercions le Directeur de l'INSE ainsi que l'ensemble du corps enseignant et administratif de l'Institut pour la qualité de la formation reçue durant notre cursus de Master professionnel.
+Nous exprimons notre reconnaissance à Monsieur ADANGLO Kouami, Directeur de l'ENFPE de Notsè, ainsi qu'au Directeur Adjoint chargé des Études et du Personnel (DACE), pour l'accueil chaleureux qui nous a été réservé et pour les facilités accordées tout au long de notre stage en responsabilité.
+Nos remerciements particuliers vont à Monsieur MANI Kondé, délégué du champ mathématique, et à Monsieur TAGNAMI Hodabalo, professeurs titulaires, dont l'encadrement exigeant, les entretiens-conseils et la générosité pédagogique ont profondément enrichi notre pratique de formateur.
+Nous remercions également nos collègues stagiaires du champ mathématique, Messieurs ADESU Sélom Attikpo, AZOUGO Kossi Mawuli et BLEWUSSI Dotsè, pour l'esprit d'équipe, la co-construction des fiches et les échanges fructueux qui ont marqué notre séjour.
+Enfin, nous adressons nos sincères remerciements aux élèves-professeurs d'école de la Promotion 3 qui ont accepté de participer à cette étude, aux directeurs et enseignants de l'EPP Zongo et de l'EPP Kpota Groupe E, ainsi qu'à toutes les personnes qui, de près ou de loin, ont contribué à la réalisation de ce mémoire.
+
+@H1 RÉSUMÉ
+Ce mémoire professionnel, réalisé à l'issue d'un stage en responsabilité à l'École Normale de Formation des Professeurs d'École (ENFPE) de Notsè, étudie les difficultés des élèves-professeurs d'école (EPE) dans l'enseignement des fractions au primaire. Le point de départ est un constat institutionnel : à l'exercice consacré aux fractions (Notion B, noté sur 1,5 point), 35,85 % des 385 EPE de la Promotion 3 n'ont pas validé la notion. L'étude vise à analyser les causes de ces difficultés et à proposer une démarche didactique de remédiation. Elle mobilise la théorie des obstacles épistémologiques, la Théorie des Situations Didactiques, la dialectique outil-objet, les registres de représentation sémiotique et la double transposition didactique. Une approche mixte a été adoptée auprès d'un échantillon de 100 EPE tirés au hasard, au moyen de trois outils : une grille d'analyse des copies, une grille d'analyse de 100 fiches pédagogiques et des entretiens semi-directifs avec 4 formateurs et 20 EPE. Les résultats montrent que 71 % des copies présentent au moins une erreur liée à un obstacle épistémologique ou sémiotique, en particulier l'addition terme à terme des numérateurs et des dénominateurs (47 %) et l'interférence du modèle des nombres entiers (42 %). Par ailleurs, 69 % des fiches introduisent la fraction par une définition formelle et 74 % ne prévoient aucune manipulation. Le niveau de maîtrise est significativement lié à la série du baccalauréat (χ² = 11,50 ; p = 0,003) et à la qualité des fiches (ρ = 0,45 ; p < 0,001). Les entretiens mettent en cause le volume horaire, le caractère transmissif de la formation et un encadrement didactique limité sur le terrain. En réponse, le mémoire propose la démarche P-M-R-S-R (Problématiser, Manipuler, Représenter, Symboliser, Réinvestir), un kit de matériel local, des fiches pédagogiques modèles et un atelier de formation à la double transposition.
+@NOINDENT **Mots clés :** fractions, élève-professeur d'école, obstacle épistémologique, pratiques enseignantes, transposition didactique, registres sémiotiques, ENFPE de Notsè.
+
+@H1 ABSTRACT
+This professional dissertation, written after a teaching internship at the Teacher Training College (ENFPE) of Notsè, Togo, examines the difficulties that student teachers (EPE) face when teaching fractions in primary school. The starting point is an institutional finding: on the fractions exercise (Notion B, marked out of 1.5 points), 35.85% of the 385 student teachers of Cohort 3 failed to master the notion. The study aims to identify the causes of these difficulties and to propose a remedial teaching approach. It draws on the theory of epistemological obstacles, the Theory of Didactical Situations, the tool-object dialectic, semiotic representation registers and double didactic transposition. A mixed-methods design was used with a random sample of 100 student teachers and three instruments: an exam-script analysis grid, an analysis grid applied to 100 lesson plans, and semi-structured interviews with 4 teacher educators and 20 student teachers. Results show that 71% of scripts contain at least one error linked to an epistemological or semiotic obstacle, mainly adding numerators and denominators separately (47%) and whole-number bias (42%). Moreover, 69% of lesson plans introduce fractions through a formal definition and 74% plan no hands-on activity. Mastery is significantly associated with the type of baccalaureate (χ² = 11.50; p = .003) and with lesson-plan quality (ρ = .45; p < .001). Interviews point to limited teaching time, transmissive training practices and weak didactic supervision during field placements. In response, the dissertation proposes the P-M-R-S-R approach (Problematise, Manipulate, Represent, Symbolise, Reinvest), a kit of locally made materials, model lesson plans and a training workshop on double didactic transposition.
+@NOINDENT **Keywords:** fractions, student teachers, epistemological obstacle, teaching practices, didactic transposition, semiotic registers, ENFPE of Notsè.
+
+@H1 SIGLES ET ABRÉVIATIONS
+@SIGLE A | Acquis (niveau de maîtrise)
+@SIGLE APA | American Psychological Association
+@SIGLE CE | Cours Élémentaire
+@SIGLE CM | Cours Moyen
+@SIGLE CP | Cours Préparatoire
+@SIGLE DACE | Directeur Adjoint chargé des Études et du Personnel
+@SIGLE DRE | Direction Régionale de l'Éducation
+@SIGLE ECA | En cours d'acquisition (niveau de maîtrise)
+@SIGLE ENFPE | École Normale de Formation des Professeurs d'École
+@SIGLE ENI | École Normale d'Instituteurs
+@SIGLE EPA | École Primaire d'Application
+@SIGLE EPE | Élève-Professeur d'École
+@SIGLE EPP | École Primaire Publique
+@SIGLE GC | Groupe-Classe
+@SIGLE HP / HS | Hypothèse principale / Hypothèse secondaire
+@SIGLE IEPP | Inspection de l'Enseignement Préscolaire et Primaire
+@SIGLE INSE | Institut National des Sciences de l'Éducation
+@SIGLE NA | Non acquis (niveau de maîtrise)
+@SIGLE OG / OS | Objectif général / Objectif spécifique
+@SIGLE PASEC | Programme d'Analyse des Systèmes Éducatifs de la CONFEMEN
+@SIGLE P-ENI | Professeur d'École Normale d'Instituteurs
+@SIGLE P-M-R-S-R | Problématiser – Manipuler – Représenter – Symboliser – Réinvestir
+@SIGLE QP / QS | Question principale / Question secondaire
+@SIGLE ST | Sciences et Technologie (champ disciplinaire)
+@SIGLE TSD | Théorie des Situations Didactiques
+@SIGLE UE | Unité d'Enseignement
+@SIGLE VD / VI | Variable dépendante / Variable indépendante

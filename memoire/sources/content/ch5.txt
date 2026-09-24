@@ -1,0 +1,203 @@
+@H1 CHAPITRE 5 : CONTRIBUTION PROFESSIONNELLE : LA DÉMARCHE P-M-R-S-R POUR ENSEIGNER LES FRACTIONS AU PRIMAIRE
+## Introduction
+Le chapitre précédent a établi que les difficultés des élèves-professeurs d'école (EPE) dans l'enseignement des fractions tiennent à la conjonction d'obstacles épistémologiques non dépassés, d'une ingénierie didactique dominée par l'introduction formelle et d'un dispositif de formation qui montre la manipulation plus qu'il ne la fait vivre. Il a surtout montré que la capacité à concevoir une situation-problème ne dépend pas du seul niveau de maîtrise du contenu : elle exige une démarche professionnelle explicite, qui doit être enseignée et pratiquée.
+Le présent chapitre constitue notre contribution professionnelle. Conformément aux directives du mémoire professionnel, il ne s'agit pas de formuler des souhaits ou des recommandations, mais de construire une démarche technique, ancrée dans la discipline, et d'en faire la démonstration. Nous proposons une démarche d'enseignement des fractions que nous désignons par le sigle P-M-R-S-R : Problématiser, Manipuler, Représenter, Symboliser, Réinvestir. Le chapitre en présente d'abord les fondements et les principes, puis décrit la démarche et les outils qui l'accompagnent : un kit de matériel didactique local, une progression des apprentissages, trois fiches pédagogiques modèles, un dispositif de remédiation des erreurs, un atelier de formation des EPE à la double transposition, une grille d'auto-analyse des fiches, une fiche d'observation pour l'accompagnement des stagiaires et une planification de la mise en œuvre.
+## 5.1. Fondements et principes de la démarche
+### 5.1.1. Des résultats de l'étude aux choix de la démarche
+Chaque composante de la démarche répond à un résultat précis de l'étude, comme le montre le tableau {T:fondements}.
+@TABLE fondements | Correspondance entre les résultats de l'étude et les choix de la démarche P-M-R-S-R
+@W 38,34,28
+| Résultat de l'étude | Choix de la démarche | Référence théorique |
+| 69 % des fiches sans situation-problème (C1) | Toute séance commence par un problème que les élèves ne peuvent résoudre avec les seuls entiers (phase P) | Brousseau (1998) ; Douady (1986) |
+| 74 % des fiches sans manipulation | Manipulation obligatoire d'objets par les élèves, et non par le maître seul (phase M) | Bruner (1966) ; Cramer et al. (2002) |
+| 52 % des fiches sans registre figural ; 23 % d'erreurs de conversion (T3) | Passage explicite par le schéma et la droite graduée avant l'écriture (phase R) | Duval (1995) |
+| Addition terme à terme (47 %) ; comparaison selon les entiers (42 %) | Règles institutionnalisées seulement après validation par le matériel (phase S) | Bachelard (1938) ; Skemp (1976) |
+| Erreurs cumulées et persistantes | Réinvestissement et remédiation ciblée par type d'erreur (phase R) | Astolfi (1997) ; Brousseau (1983) |
+| Monstration plutôt que vécu en formation | Atelier où les EPE vivent la démarche comme apprenants avant de l'analyser | Houdement et Kuzniak (1996) |
+@SOURCE Source : Notre construction, 2026.
+### 5.1.2. Principes directeurs
+La démarche repose sur cinq principes directeurs :
+- **Principe de nécessité :** la fraction doit apparaître comme la réponse à un problème que les nombres entiers ne permettent pas de résoudre, conformément à la dialectique outil-objet (Douady, 1986).
+- **Principe d'action :** les élèves agissent sur un matériel qui leur renvoie des rétroactions ; ce n'est pas le maître qui montre, ce sont les élèves qui cherchent (Brousseau, 1998).
+- **Principe de conversion :** chaque notion est travaillée dans au moins trois registres (matériel, schéma, écriture), et les passages d'un registre à l'autre sont explicitement organisés (Duval, 1995).
+- **Principe de validation :** toute règle est d'abord mise à l'épreuve du matériel ; l'élève doit pouvoir contrôler lui-même la vraisemblance d'un résultat.
+- **Principe d'exploitation de l'erreur :** les erreurs typiques sont anticipées dans la fiche et exploitées lors de la mise en commun comme occasions de débat (Astolfi, 1997).
+## 5.2. Présentation de la démarche P-M-R-S-R
+### 5.2.1. Les cinq phases de la démarche
+La démarche s'organise en cinq phases, représentées dans la figure {F:demarche}.
+@FIG f_demarche demarche | La démarche P-M-R-S-R d'enseignement des fractions | 16
+@SOURCE Source : Notre construction, 2026.
+Le tableau {T:phases} précise, pour chaque phase, le rôle du maître, l'activité des élèves, le registre mobilisé et la durée indicative dans une séance de 45 à 60 minutes.
+@TABLE phases | Déroulement des phases de la démarche P-M-R-S-R
+@W 15,30,30,13,12
+| Phase | Rôle du maître | Activité des élèves | Registre | Durée |
+| P – Problématiser | Présente une situation-problème de partage ou de mesure ; s'assure de la compréhension de la consigne ; ne donne pas la solution (dévolution) | S'approprient le problème ; formulent des hypothèses ; constatent que les entiers ne suffisent pas | Langue naturelle | 5 à 8 min |
+| M – Manipuler | Distribue le matériel ; organise les groupes et les rôles ; circule et observe les stratégies | Plient, découpent, partagent, superposent ; cherchent en groupe | Matériel (énactif) | 10 à 15 min |
+| R – Représenter | Demande de dessiner le résultat ; organise la mise en commun ; confronte les productions et les erreurs | Schématisent ; placent sur la droite graduée ; comparent et justifient | Figural et droite graduée | 10 min |
+| S – Symboliser | Institutionnalise l'écriture et la règle ; fait le lien explicite entre matériel, schéma et écriture | Écrivent la fraction ; verbalisent la règle ; la valident sur le matériel | Symbolique | 8 à 10 min |
+| R – Réinvestir | Propose des exercices et un problème de transfert ; repère les erreurs persistantes | Résolvent seuls ; contrôlent la vraisemblance ; corrigent | Tous registres | 10 à 15 min |
+@SOURCE Source : Notre construction, 2026.
+### 5.2.2. La démarche au regard de la pratique ordinaire
+La démarche P-M-R-S-R n'ignore pas les rituels de séance en usage dans les ENFPE et dans les écoles primaires togolaises : la prise en main, la révision fonctionnelle et la mise en train précèdent la phase P, et l'évaluation formative prolonge la phase de réinvestissement. Elle en modifie cependant l'économie : là où la pratique observée consacrait l'essentiel du temps à l'énoncé de la règle et aux exercices d'application, la démarche consacre environ la moitié de la séance aux phases de problématisation, de manipulation et de représentation. Le temps apparemment « perdu » dans ces phases est regagné lors du réinvestissement, parce que les élèves disposent d'un moyen de contrôle qui réduit les erreurs et le besoin de remédiation.
+## 5.3. Le kit de matériel didactique local pour les fractions
+L'un des obstacles évoqués par 12 EPE sur 20 est le manque de matériel. Notre démarche s'appuie donc sur un kit réalisable à coût quasi nul, à partir de matériaux disponibles localement. Le tableau {T:kit} en présente la composition et les usages.
+@TABLE kit | Composition, confection et usages du kit de matériel pour les fractions
+@W 20,32,28,20
+| Matériel | Confection | Usages didactiques | Erreurs visées |
+| Bandes-unités | Bandes de papier ou de carton de 24 cm × 3 cm (24 étant divisible par 2, 3, 4, 6, 8 et 12) | Partage par pliage ; comparaison par superposition ; addition par juxtaposition | T1, T2, T3 |
+| Mur des fractions | Bandes-unités partagées en demis, tiers, quarts, sixièmes, huitièmes et douzièmes, collées les unes sous les autres sur un carton | Comparaison visuelle ; recherche de fractions égales ; dénominateur commun | T1, T2, T5 |
+| Disques à secteurs | Disques de carton de 12 cm de diamètre découpés en secteurs égaux (gabarits fournis) | Relation partie-tout ; fractions supérieures à l'unité | T3 |
+| Droite graduée murale | Bande de 1 m graduée de 0 à 2, avec des étiquettes mobiles | Fraction-mesure ; ordre ; placement de fractions | T1 |
+| Collections d'objets | Capsules, graines, bâtonnets (lots de 12, 24 ou 60) | Fraction d'une quantité (opérateur) ; problèmes de partage | T4 |
+| Cartes-registres | Cartes associant une écriture, un schéma, une expression en mots et un point de la droite | Jeux de conversion entre registres (loto, mémoire) | T3 |
+@SOURCE Source : Notre construction, 2026.
+Le choix d'une bande-unité de 24 cm n'est pas anodin. Il permet de partager la bande en 2, 3, 4, 6, 8 et 12 parts de longueur entière (12, 8, 6, 4, 3 et 2 cm), ce qui rend possibles la comparaison et l'addition de fractions de dénominateurs différents par simple superposition, sans mesure fastidieuse. C'est ce choix de « variable didactique », au sens de Brousseau (1998), qui permet aux élèves de découvrir par eux-mêmes que 2/3 et 8/12 représentent la même longueur, ou que 2/3 + 1/4 occupe 11 des 12 parts de la bande.
+## 5.4. Progression des apprentissages sur les fractions du CE1 au CM2
+Pour que l'enseignement des fractions ne se réduise pas à une succession de leçons isolées, nous proposons une progression qui fait rencontrer progressivement aux élèves les différentes significations de la fraction (tableau {T:progression}).
+@TABLE progression | Progression proposée pour l'enseignement des fractions au primaire
+@W 12,40,26,22
+| Classe | Contenus et compétences visés | Signification dominante | Matériel principal |
+| CE1 | Partager une unité en 2 et en 4 parts égales ; nommer et écrire 1/2 et 1/4 | Partie-tout | Bandes-unités, disques |
+| CE2 | Lire, écrire et représenter des fractions simples ; comparer des fractions de même dénominateur ou de même numérateur | Partie-tout, mesure | Bandes, mur des fractions |
+| CM1 | Placer des fractions sur une droite graduée ; reconnaître des fractions égales ; additionner et soustraire des fractions de même dénominateur, puis de dénominateurs multiples | Mesure, équivalence | Droite graduée, mur des fractions |
+| CM2 | Comparer, simplifier, additionner et soustraire des fractions quelconques ; calculer la fraction d'une quantité ; lien avec les décimaux et les pourcentages | Opérateur, quotient | Collections d'objets, droite graduée |
+@SOURCE Source : Notre construction, 2026, à partir des contenus usuels des programmes du primaire.
+## 5.5. Démonstration : trois fiches pédagogiques conçues selon la démarche
+Pour démontrer la mise en œuvre de la démarche, nous présentons trois fiches pédagogiques, chacune ciblant une erreur majeure mise en évidence par l'étude. La première, développée intégralement, porte sur l'addition de fractions de dénominateurs différents, qui est l'item le plus échoué par les EPE (18 % de réussite) et le lieu de l'erreur la plus fréquente (T2). La deuxième, présentée de manière plus synthétique, porte sur la comparaison de fractions et cible l'erreur T1 ; la troisième porte sur la fraction d'une quantité et cible l'erreur T4.
+### 5.5.1. Fiche n°1 : additionner deux fractions de dénominateurs différents (CM1)
+@TABLE fiche1id | Fiche n°1 : renseignements généraux
+@W 30,70
+| Rubrique | Contenu |
+| Champ disciplinaire / Discipline | Mathématiques / Calcul (nombres et opérations) |
+| Classe / Effectif | CM1 / G : …… F : …… T : …… |
+| Titre | Addition de deux fractions de dénominateurs différents |
+| Objectif d'apprentissage | À la fin de la séance, l'élève doit être capable de calculer la somme de deux fractions dont les dénominateurs sont différents (l'un multiple de l'autre, puis quelconques), en justifiant le résultat à l'aide de la bande-unité. |
+| Prérequis | Lire et représenter une fraction ; reconnaître des fractions égales sur le mur des fractions ; additionner deux fractions de même dénominateur |
+| Matériel | Par groupe : 3 bandes-unités de 24 cm, le mur des fractions, ciseaux, crayons de couleur ; au tableau : bande-unité agrandie et droite graduée |
+| Durée | 60 minutes |
+| Erreurs anticipées | 2/3 + 1/4 = 3/7 (T2) ; somme inférieure à l'un des termes non détectée |
+@SOURCE Source : Notre construction, 2026.
+@TABLE fiche1 | Fiche n°1 : déroulement de la séance selon la démarche P-M-R-S-R
+@W 15,37,34,14
+| Étapes | Activités du maître | Activités des élèves | Durée |
+| Mise en train et révision fonctionnelle | Calcul mental : 1/5 + 2/5 ; 3/8 + 1/8. « Pourquoi le dénominateur ne change-t-il pas ? » | Calculent et justifient : « on additionne des cinquièmes, le résultat est en cinquièmes » | 5 min |
+| **P – Problématiser** | Présente la situation : « Koffi a peint les 2/3 d'une planche le matin et 1/4 de la même planche l'après-midi. Quelle fraction de la planche a-t-il peinte dans la journée ? » Recueille les propositions sans les valider. | Proposent des réponses ; la réponse 3/7 apparaît souvent. Le maître note toutes les propositions au tableau. | 7 min |
+| **M – Manipuler** | Distribue les bandes-unités (la bande représente la planche). Consigne : « Coloriez les 2/3 en bleu, puis 1/4 en rouge à la suite. Quelle part de la bande est coloriée ? Utilisez le mur des fractions pour trouver des parts qui conviennent aux deux couleurs. » Circule, observe, relance les groupes bloqués. | Plient la bande en 3, colorient 2 tiers ; plient une autre bande en 4, reportent un quart. Cherchent sur le mur des parts qui s'ajustent aux tiers et aux quarts : les douzièmes. | 15 min |
+| **R – Représenter** | Fait dessiner au tableau la bande partagée en 12 par un groupe. Confronte la proposition 3/7 au dessin : « 3/7 est-il plus grand ou plus petit que 2/3 ? Est-ce possible, puisqu'on a ajouté de la peinture ? » | Constatent que 2/3 = 8/12 et 1/4 = 3/12 ; comptent 11 douzièmes coloriés. Rejettent 3/7, qui est plus petit que 2/3 : c'est impossible. | 10 min |
+| **S – Symboliser** | Institutionnalise : « Pour additionner deux fractions de dénominateurs différents, on les remplace par des fractions égales ayant le même dénominateur, puis on additionne les numérateurs. » Écrit : 2/3 + 1/4 = 8/12 + 3/12 = 11/12. Fait le lien entre chaque étape du calcul et la bande. | Verbalisent la règle ; la valident sur la bande ; copient la trace écrite comprenant le schéma et le calcul. | 8 min |
+| **R – Réinvestir** | Exercices gradués : 1/2 + 1/4 ; 1/3 + 1/6 ; 3/4 + 1/6. Problème de transfert : « Ama boit 1/2 litre de lait le matin et 1/3 litre le soir. Quelle quantité boit-elle ? » Exige un contrôle de vraisemblance. | Calculent seuls ; vérifient sur le mur que le résultat est plus grand que chacun des termes ; les élèves en difficulté utilisent la bande. | 12 min |
+| Évaluation et consigne de remédiation | Relève les erreurs persistantes ; regroupe pour la séance suivante les élèves ayant produit une addition terme à terme. | Auto-évaluent leurs réponses à l'aide du corrigé collectif. | 3 min |
+@SOURCE Source : Notre construction, 2026.
+Cette fiche illustre les principes de la démarche. La phase de problématisation fait émerger l'erreur 3/7 au lieu de la taire ; la manipulation fournit un milieu qui invalide cette réponse par lui-même ; la représentation organise la conversion entre le matériel, le schéma et l'écriture ; la règle n'est institutionnalisée qu'après avoir été rendue nécessaire et vérifiée. Le contrôle de vraisemblance, systématiquement exigé, donne aux élèves un moyen de détecter seuls l'erreur T2.
+#### Illustration : l'exploitation de l'erreur lors de la phase de représentation
+Pour rendre concrète la manière dont l'erreur 3/7 est exploitée, nous présentons ci-après un extrait de l'échange prévu lors de la mise en commun. Il sert de modèle aux EPE, qui éprouvent, selon les entretiens, des difficultés à répondre aux questions « pourquoi » des élèves.
+> Maître : « Le groupe 2 propose 3/7. Le groupe 4 propose 11/12. Les deux réponses peuvent-elles être justes ? »
+> Élève A : « Non, parce que ce n'est pas le même nombre. »
+> Maître : « Alors comment savoir laquelle est juste ? Regardez votre bande. Koffi a déjà peint les 2/3 le matin. Montrez-moi les 2/3. »
+> Élève B : « C'est les deux premières parts quand on plie en trois. »
+> Maître : « Et 3/7, c'est plus ou c'est moins que 2/3 ? Pliez une bande en sept et comparez. »
+> Élève C : « 3/7, c'est plus petit que 2/3 ! »
+> Maître : « Est-ce possible ? L'après-midi, Koffi a peint encore un morceau. La partie peinte peut-elle devenir plus petite ? »
+> Élèves : « Non ! Donc 3/7, c'est faux. »
+> Maître : « Pourquoi alors ne peut-on pas additionner les tiers et les quarts directement ? »
+> Élève D : « Parce que ce ne sont pas les mêmes parts. Il faut les couper pareil, en douzièmes. »
+Cet échange illustre le principe de validation par le milieu : ce n'est pas le maître qui déclare la réponse fausse, c'est le matériel, puis le raisonnement des élèves eux-mêmes. Le maître se contente de poser les questions qui rendent la contradiction visible. L'élève D formule spontanément l'idée d'unité commune, que le maître n'aura plus qu'à institutionnaliser. Cette gestion de l'erreur rompt avec la pratique observée dans les fiches, où l'erreur est soit ignorée, soit corrigée d'autorité.
+### 5.5.2. Fiche n°2 : comparer des fractions de même numérateur (CE2)
+@TABLE fiche2 | Fiche n°2 : déroulement synthétique de la séance
+@W 16,50,34
+| Phase | Déroulement | Point de vigilance |
+| **P** | Situation : « On partage une galette entre 5 enfants et une galette identique entre 7 enfants. Dans quel groupe chaque enfant reçoit-il la plus grosse part ? » | Recueillir la réponse « 1/7 car 7 est plus grand que 5 » sans la corriger. |
+| **M** | Chaque groupe partage une bande-unité en 5 et une autre en 7 (gabarits fournis), puis superpose une part de chaque bande. | Veiller à l'égalité des parts : c'est la condition de l'écriture fractionnaire. |
+| **R** | Les élèves dessinent les deux bandes l'une sous l'autre, puis placent 1/5 et 1/7 sur la droite graduée. | Faire verbaliser : « plus on partage, plus les parts sont petites ». |
+| **S** | Institutionnalisation : « Quand deux fractions ont le même numérateur, la plus grande est celle qui a le plus petit dénominateur. » Écriture : 1/7 < 1/5 ; 3/7 < 3/5. | Opposer explicitement cette règle à l'ordre des entiers : « 7 > 5 mais 1/7 < 1/5 ». |
+| **R** | Ranger 1/2, 1/8, 1/4, 1/3 ; comparer 2/3 et 2/9 ; justifier avec un dessin. | Exiger une justification par le dessin ou la droite graduée. |
+@SOURCE Source : Notre construction, 2026.
+Cette seconde fiche cible directement l'interférence du modèle des entiers (T1). La manipulation met en contradiction l'intuition issue des entiers (7 est plus grand que 5) et la perception de la grandeur des parts : c'est ce conflit, organisé par la situation, qui permet le dépassement de l'obstacle au sens de Bachelard (1938) et de Brousseau (1983).
+### 5.5.3. Fiche n°3 : calculer la fraction d'une quantité (CM2)
+La troisième fiche porte sur la fraction-opérateur, que seuls 46 % des EPE ont su mobiliser dans le problème de l'item I5 et qui reste fragile même chez les EPE du niveau « acquis ». Elle cible l'erreur T4.
+@TABLE fiche3 | Fiche n°3 : déroulement synthétique de la séance
+@W 16,50,34
+| Phase | Déroulement | Point de vigilance |
+| **P** | Situation : « La coopérative de l'école a récolté 60 kg de maïs. Les 2/5 de la récolte sont vendus au marché. Combien de kilogrammes sont vendus ? » Recueil des procédures spontanées. | Noter les réponses du type 60 : 2 × 5 = 150 kg et demander : « peut-on vendre plus que la récolte ? » |
+| **M** | Chaque groupe reçoit 60 capsules représentant les 60 kg. Consigne : « Partagez la récolte en 5 parts égales, puis prenez-en 2. » | S'assurer que les parts sont égales (12 capsules chacune) avant de prendre 2 parts. |
+| **R** | Représentation par un schéma en barre : une barre de 60 partagée en 5 cases de 12, dont 2 sont hachurées. | Faire écrire sous le schéma : 1/5 de 60 = 12 ; 2/5 de 60 = 24. |
+| **S** | Institutionnalisation : « Pour calculer les a/b d'une quantité, on cherche d'abord la valeur de 1/b (on divise par b), puis on multiplie par a. » Lien avec l'écriture 60 × 2/5 = (60 : 5) × 2 = 24. | Expliciter que le résultat est inférieur à la quantité quand la fraction est inférieure à 1. |
+| **R** | Problèmes variés : les 3/4 de 2 000 F ; les 5/8 d'une classe de 48 élèves ; problème inverse : « 1/3 d'une somme vaut 500 F ; quelle est la somme ? » | Exiger un schéma en barre et un contrôle de vraisemblance pour chaque problème. |
+@SOURCE Source : Notre construction, 2026.
+Le passage par la fraction unitaire correspond à la procédure la plus sûre observée dans les copies réussies (voir section 4.2.5). Le schéma en barre, qui constitue un registre intermédiaire entre la manipulation des capsules et le calcul, permet aux élèves, et aux EPE eux-mêmes, de contrôler le sens de l'opération et de détecter l'erreur consistant à diviser par le numérateur.
+## 5.6. Le dispositif de remédiation des erreurs typiques
+La démarche est complétée par un dispositif de remédiation qui associe à chaque type d'erreur identifié dans l'étude un indice de repérage, une cause probable et une situation de remédiation (tableau {T:remediation}). Ce dispositif est destiné aussi bien aux formateurs de l'ENFPE, pour la remédiation auprès des EPE, qu'aux EPE eux-mêmes, pour la remédiation auprès de leurs élèves.
+@TABLE remediation | Dispositif de remédiation des erreurs typiques relatives aux fractions
+@W 18,22,24,36
+| Erreur | Indice de repérage | Cause probable | Situation de remédiation |
+| T1 – Interférence du modèle des entiers | « 1/8 > 1/5 car 8 > 5 » | La fraction est conçue comme deux entiers indépendants | Superposer des parts de bandes partagées en 5 et en 8 ; placer les fractions sur la droite graduée ; formuler la règle en opposition à l'ordre des entiers |
+| T2 – Addition terme à terme | 2/3 + 1/4 = 3/7 | Règle syntaxique sans signification ; analogie avec les entiers | Juxtaposer 2/3 et 1/4 sur la bande-unité ; comparer 3/7 à 2/3 (contrôle de vraisemblance) ; rechercher l'unité commune sur le mur des fractions |
+| T3 – Défaut de conversion | Parts inégales acceptées ; comptage des traits | Condition d'égalité des parts non intégrée | Jeu des cartes-registres ; tâches « vrai ou faux » sur des figures partagées en parts inégales ; tracés sur quadrillage |
+| T4 – Fraction-opérateur | 3/5 de 2 400 = 4 000 | Absence de représentation de la situation | Partager une collection de 60 capsules en 5 lots égaux, prendre 3 lots ; schéma en barre ; question de contrôle : « la part peut-elle dépasser le tout ? » |
+| T5 – Simplification erronée | 18/24 = 15/21 | Confusion entre égalité additive et égalité multiplicative | Vérifier sur le mur que 18/24 et 3/4 occupent la même longueur, mais pas 15/21 ; formuler la règle multiplicative |
+@SOURCE Source : Notre construction, 2026.
+## 5.7. L'atelier de formation des EPE à la double transposition
+Les résultats ont montré que les EPE, y compris ceux qui maîtrisent les fractions, ne conçoivent pas de situations-problèmes, parce qu'ils n'en ont pas vécu en formation. Pour rompre ce cercle, nous avons conçu un atelier de formation de huit heures, organisé en quatre séances de deux heures, destiné aux EPE de première année à l'ENFPE. Il s'inspire de la stratégie de transposition décrite par Houdement et Kuzniak (1996) : les EPE vivent la démarche en tant qu'apprenants, puis l'analysent en tant que futurs enseignants.
+@TABLE atelier | Organisation de l'atelier de formation à la double transposition (8 heures)
+@W 16,40,26,18
+| Séance | Contenu et activités | Production attendue | Posture de l'EPE |
+| 1. Vivre le conflit cognitif | Les EPE résolvent, sans règle, des problèmes où leurs conceptions sont mises en défaut (comparer 1/7 et 1/5 ; calculer 2/3 + 1/4 ; les 3/5 de 2 400 F) puis les valident avec le kit | Prise de conscience de ses propres conceptions ; notes de réflexion | Apprenant |
+| 2. Analyser les erreurs des élèves | Classement de productions d'élèves selon les types T1 à T5 ; recherche des causes ; choix d'une situation de remédiation | Grille d'analyse d'erreurs complétée | Analyste |
+| 3. Concevoir une fiche P-M-R-S-R | Conception en groupe d'une fiche sur une notion de la progression ; confection du matériel correspondant ; auto-analyse avec la grille du tableau {T:grille} | Fiche pédagogique et matériel | Concepteur |
+| 4. Enseigner et analyser | Micro-enseignement de 20 minutes par groupe devant les pairs ; entretien-conseil centré sur les phases P, M et R | Fiche révisée ; plan de progrès individuel | Enseignant réflexif |
+@SOURCE Source : Notre construction, 2026.
+L'atelier s'intègre dans les séances ordinaires du champ mathématique et peut être conduit dans les salles polyvalentes, en groupes de cinq ou six EPE, ce qui répond à la contrainte des effectifs élevés soulignée par les formateurs. La séance 1 est déterminante : en faisant vivre aux EPE le conflit cognitif que provoque la bande-unité face à la réponse 3/7, elle transforme la manipulation, jusqu'ici connue comme un principe, en une expérience personnelle que l'EPE pourra ensuite reproduire avec ses élèves. L'organisation de l'atelier en quatre séances de deux heures tient compte du volume horaire limité : elle mobilise, sur un semestre, un temps comparable à celui qui est habituellement consacré aux leçons sur les fractions, mais en l'organisant autrement.
+## 5.8. La grille d'auto-analyse des fiches pédagogiques
+Pour accompagner les EPE dans la conception de leurs fiches, nous proposons une grille d'auto-analyse dérivée de l'Outil 1 de notre étude et enrichie des principes de la démarche. Elle peut être utilisée par l'EPE avant de soumettre sa fiche, par le formateur lors des entretiens-conseils et par le maître d'accueil lors du suivi du stage.
+@TABLE grille | Grille d'auto-analyse d'une fiche pédagogique sur les fractions
+@W 58,14,14,14
+| Question d'auto-analyse | Oui | En partie | Non |
+| 1. Ma séance commence-t-elle par un problème que les élèves ne peuvent pas résoudre avec les seuls nombres entiers ? | | | |
+| 2. Les élèves manipulent-ils eux-mêmes du matériel (et non le maître seul) ? | | | |
+| 3. Ai-je prévu le passage du matériel au dessin, puis du dessin à l'écriture ? | | | |
+| 4. Ai-je prévu les erreurs typiques (T1 à T5) et la manière de les exploiter ? | | | |
+| 5. La règle est-elle institutionnalisée après avoir été validée par le matériel ? | | | |
+| 6. Mes définitions, écritures et exemples sont-ils mathématiquement exacts (parts égales) ? | | | |
+| 7. Les élèves disposent-ils d'un moyen de contrôler la vraisemblance de leurs résultats ? | | | |
+| 8. Ma séance comporte-t-elle un problème de réinvestissement dans un contexte nouveau ? | | | |
+@SOURCE Source : Notre construction, 2026, à partir de l'Outil 1.
+## 5.9. La fiche d'observation pour l'accompagnement des stagiaires
+Les entretiens ont montré que l'accompagnement didactique des stagiaires par les maîtres d'accueil porte davantage sur la discipline de la classe et sur la tenue du cahier de préparation que sur la manière d'enseigner les notions. Pour outiller cet accompagnement, nous proposons une fiche d'observation centrée sur les phases de la démarche. Elle est conçue pour être remplie en une seule séance par un maître d'accueil ou par un formateur en visite, et pour servir de support à un entretien-conseil de quinze minutes.
+@TABLE observation | Fiche d'observation d'une séance sur les fractions (accompagnement du stagiaire)
+@W 18,46,18,18
+| Phase observée | Indicateurs à observer | Observé | Conseil à formuler |
+| P – Problématiser | Un problème est posé avant toute définition ; les élèves cherchent avant que le maître ne donne la solution | Oui / Non | |
+| M – Manipuler | Chaque groupe dispose de matériel ; ce sont les élèves qui manipulent ; les parts sont égales | Oui / Non | |
+| R – Représenter | Les élèves dessinent ; les productions sont confrontées au tableau ; les erreurs sont discutées | Oui / Non | |
+| S – Symboliser | La règle est formulée après la manipulation ; le lien entre matériel, schéma et écriture est explicité | Oui / Non | |
+| R – Réinvestir | Les élèves travaillent seuls ; ils contrôlent la vraisemblance ; les erreurs persistantes sont relevées | Oui / Non | |
+| Gestion de la classe | Rôles dans les groupes ; circulation positive ; respect du temps prévu pour chaque phase | Oui / Non | |
+@SOURCE Source : Notre construction, 2026.
+L'entretien-conseil qui suit l'observation porte sur une seule phase jugée prioritaire, afin de fixer au stagiaire un objectif de progrès précis pour la séance suivante. Cette focalisation, que nous avons expérimentée lors du suivi des douze EPE à l'EPP Zongo et à l'EPP Kpota Groupe E, rend l'accompagnement réalisable par des maîtres d'accueil chargés de classes à effectifs élevés.
+## 5.10. Planification de la mise en œuvre
+La mise en œuvre de la contribution s'inscrit dans le calendrier de la formation, comme le montre le tableau {T:planning}.
+@TABLE planning | Planification de la mise en œuvre de la contribution sur un cycle de formation
+@W 24,46,30
+| Période | Action | Acteurs |
+| Semestre 1 (1re année) | Évaluation diagnostique des EPE sur les fractions à l'aide de l'Outil 2 ; constitution des groupes de remédiation | Formateurs du champ mathématique |
+| Semestre 2 (1re année) | Atelier de formation à la double transposition (4 séances de 2 heures) ; confection du kit de matériel par les EPE | Formateurs, EPE |
+| Semestre 3 (2e année) | Leçons d'essai sur les fractions conçues selon la démarche P-M-R-S-R ; auto-analyse des fiches avec la grille | EPE, formateurs, pairs |
+| Semestre 4 (stage en responsabilité) | Enseignement des fractions dans les classes d'accueil ; observation avec la fiche d'accompagnement ; entretiens-conseils ciblés | EPE, maîtres d'accueil, formateurs |
+| Fin du cycle | Évaluation de la contribution à l'aide des indicateurs du tableau {T:evaluation} | Formateurs, direction des études |
+@SOURCE Source : Notre construction, 2026.
+## 5.11. Conditions de mise en œuvre et évaluation de la contribution
+La mise en œuvre de la démarche ne requiert pas de moyens financiers importants : le kit peut être confectionné par les EPE eux-mêmes lors de la séance 3 de l'atelier, à partir de carton et de papier de récupération. Elle suppose en revanche une réorganisation du temps de formation consacré aux fractions et une appropriation de la démarche par les formateurs du champ mathématique, qui peuvent s'appuyer sur les fiches modèles présentées ici.
+L'efficacité de la contribution peut être évaluée à l'aide des outils mêmes de notre étude, ce qui permet une comparaison avant et après sa mise en œuvre. Le tableau {T:evaluation} présente les indicateurs proposés.
+@TABLE evaluation | Indicateurs d'évaluation de la contribution professionnelle
+@W 40,30,30
+| Indicateur | Situation de référence (présente étude) | Outil de mesure |
+| Taux de validation de la Notion B | 64 % (population : 64,15 %) | Analyse notionnelle ; Outil 2 |
+| Copies présentant une erreur de type T1, T2 ou T3 | 71 % | Outil 2 |
+| Fiches introduisant la notion par une situation-problème (C1 ≥ 1) | 31 % | Outil 1 |
+| Fiches prévoyant une manipulation par les élèves | 26 % | Outil 1 |
+| Score moyen des fiches | 3,25 / 8 | Outil 1 |
+| EPE se sentant pleinement préparés à enseigner les fractions | 15 % | Outil 3 |
+@SOURCE Source : Notre enquête, 2026.
+Cette évaluation pourrait être conduite auprès de la Promotion 4, actuellement en formation, en appliquant la démarche et l'atelier au cours de sa deuxième année et en comparant ses résultats à ceux de la Promotion 3.
+## Conclusion
+Ce cinquième chapitre a présenté notre contribution professionnelle à l'enseignement des fractions au primaire et à la formation des EPE. La démarche P-M-R-S-R traduit en pratique les apports du cadre théorique et répond point par point aux difficultés mises en évidence par l'étude : elle fait naître la fraction d'un problème, la fait construire par la manipulation, organise la conversion entre registres, n'institutionnalise la règle qu'après sa validation et exploite les erreurs typiques. Le kit de matériel local, la progression du CE1 au CM2, les trois fiches modèles, le dispositif de remédiation, l'atelier de formation, la grille d'auto-analyse et la fiche d'observation des stagiaires en constituent les outils opérationnels. Ensemble, ils visent à rompre le cercle de reproduction des obstacles et à former des enseignants capables de faire comprendre les fractions, et non seulement d'en faire appliquer les règles.
